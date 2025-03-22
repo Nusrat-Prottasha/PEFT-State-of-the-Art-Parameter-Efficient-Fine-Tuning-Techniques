@@ -52,7 +52,7 @@
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/cambridgeltl/autopeft)
 
-- CROSS-MODAL ADAPTER: PARAMETER-EFFICIENT TRANSFER LEARNING APPROACH FOR VISION-LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2404.18253)]
+- CROSS-MODAL ADAPTER: PARAMETER-EFFICIENT TRANSFER LEARNING APPROACH FOR VISION-LANGUAGE MODELS [[Paper](https://arxiv.org/pdf/2404.12588)]
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/cross-modal-adapter-parameter-efficient)
 
