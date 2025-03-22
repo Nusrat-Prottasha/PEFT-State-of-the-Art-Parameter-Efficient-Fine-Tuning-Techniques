@@ -149,4 +149,13 @@
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jpmorganchase/ovor)
 
 
+## 🚀 Discrete Prompt
+
+- RLPROMPT: Optimizing Discrete Text Prompts with Reinforcement Learning [[Paper](https://arxiv.org/pdf/2205.12548)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/mingkaid/rl-prompt)
+
+- SPARSEFIT: Few-shot Prompting with Sparse Fine-tuning for Jointly Generating Predictions and Natural Language Explanations [[Paper](https://arxiv.org/pdf/2305.13235)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/AkihikoWatanabe/paper_notes/issues/1684)
 
