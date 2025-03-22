@@ -160,9 +160,9 @@
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/AkihikoWatanabe/paper_notes/issues/1684)
 
 
-  ## 🚀 Domain Specific Adaption (Natural Language Understanding)
+## 🚀 Domain Specific Adaption (Natural Language Understanding)
 
-  - Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation [[Paper](https://arxiv.org/pdf/2405.15282)]
+- Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation [[Paper](https://arxiv.org/pdf/2405.15282)]
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jabhinav/Prompt-Tuning-Strikes-Back-with-LOPA)
 
