@@ -21,3 +21,26 @@
 
 ## 🚀 Parallel Adapters
 
+- UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling [[Paper](https://arxiv.org/abs/2306.00988)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/UniAdapter/UniAdapter)
+
+- UniPT: Universal Parallel Tuning for Transfer Learning with Efficient Parameter and Memory [[Paper](https://arxiv.org/abs/2305.14782)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/Paranioar/UniPT)
+
+- AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition [[Paper](https://arxiv.org/abs/2111.15668)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/ShoufaChen/AdaptFormer)
+
+- BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning [[Paper](https://arxiv.org/abs/1902.02671)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/AsaCooperStickland/Bert-n-Pals?tab=readme-ov-file)
+
+- PEMT: Multi-Task Correlation Guided Mixture-of-Experts Enables Parameter-Efficient Transfer Learning [[Paper](https://arxiv.org/abs/2305.13096)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/JachinLin2022/PEMT)
+
+- Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference [[Paper](https://arxiv.org/abs/2106.07617)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/conditional-adapters-parameter-efficient)
