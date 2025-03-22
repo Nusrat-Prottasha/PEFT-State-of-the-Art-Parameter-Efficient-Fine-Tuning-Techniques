@@ -82,7 +82,7 @@
 
 - K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters [[Paper](https://arxiv.org/pdf/2002.01808)]
   ![arXiv](https://img.shields.io/badge/ACL-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
-  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/simple-scalable-adaptation-for-neural-machine)
+  [![Code](https://github.com/microsoft/K-Adapter👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/simple-scalable-adaptation-for-neural-machine)
 
 - AdapterFusion: Non-Destructive Task Composition for Transfer Learning [[Paper](https://arxiv.org/pdf/2005.00247)]
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
