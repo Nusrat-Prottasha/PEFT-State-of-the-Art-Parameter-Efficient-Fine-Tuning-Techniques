@@ -159,3 +159,31 @@
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/AkihikoWatanabe/paper_notes/issues/1684)
 
+
+  ## 🚀 Domain Specific Adaption (Natural Language Understanding)
+
+  - Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation [[Paper](https://arxiv.org/pdf/2405.15282)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jabhinav/Prompt-Tuning-Strikes-Back-with-LOPA)
+
+- InfoPrompt: Information-Theoretic Soft Prompt Tuning for Natural Language Understanding [[Paper](https://arxiv.org/pdf/2306.04933)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/infoprompt-information-theoretic-soft-prompt)
+
+- PEFT-U: Parameter-Efficient Fine-Tuning for User Personalization [[Paper](https://arxiv.org/pdf/2407.18078)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/ChrisIsKing/Parameter-Efficient-Personalization)
+
+- IDPG: An Instance-Dependent Prompt Generation Method [[Paper](https://arxiv.org/pdf/2204.04497)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/CSerxy/IDPG)
+
+- APrompt: Attention Prompt Tuning for Efficient Adaptation of Pre-trained Language Models [[Paper](https://aclanthology.org/2023.emnlp-main.567.pdf)]
+  ![EMNLP](https://img.shields.io/badge/EMNLP-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/wgcban/apt)
+
+- SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts [[Paper](https://aclanthology.org/2023.emnlp-main.884.pdf)]
+  ![EMNLP](https://img.shields.io/badge/EMNLP-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jyjohnchoi/SMoP)
+
+
