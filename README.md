@@ -74,7 +74,7 @@
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/czczup/ViT-Adapter)
 
-- Simple, Scalable Adaptation for Neural Machine Translation [[Paper](https://paperswithcode.com/paper/simple-scalable-adaptation-for-neural-machine)]
+- Simple, Scalable Adaptation for Neural Machine Translation [[Paper](https://aclanthology.org/D19-1165.pdf)]
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/simple-scalable-adaptation-for-neural-machine)
 
