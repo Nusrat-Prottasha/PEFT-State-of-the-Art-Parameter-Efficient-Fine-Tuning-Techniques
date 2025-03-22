@@ -112,3 +112,8 @@
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/adaptersoup-weight-averaging-to-improve)
 
 
+## 🚀 Continuous Prompting 
+
+
+
+
