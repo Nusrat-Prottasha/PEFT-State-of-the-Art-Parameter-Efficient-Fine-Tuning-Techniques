@@ -114,6 +114,39 @@
 
 ## 🚀 Continuous Prompting 
 
+- Prefix-Tuning: Optimizing Continuous Prompts for Generation [[Paper](https://arxiv.org/pdf/2101.00190)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/XiangLi1999/PrefixTuning)
+
+- PEDRO: Parameter-Efficient Fine-tuning with Prompt DEpenDent Representation MOdification [[Paper](https://www.arxiv.org/pdf/2409.17834)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+
+- DEPT: Decomposed Prompt Tuning for Parameter-Efficient Fine-Tuning [[Paper](https://arxiv.org/pdf/2309.05173)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/ZhengxiangShi/DePT)
+
+- P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks [[Paper](https://arxiv.org/pdf/2110.07602)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/THUDM/P-tuning-v2)
+
+- Q-PEFT: Query-dependent Parameter Efficient Fine-tuning for Text Reranking with Large Language Models [[Paper](https://arxiv.org/pdf/2404.04522)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+
+- PTR: Prompt Tuning with Rules for Text Classification [[Paper](https://arxiv.org/pdf/2105.11259)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/thunlp/PTR)
+
+- Prefix-Propagation: Parameter-Efficient Tuning for Long Sequences [[Paper](https://web3.arxiv.org/pdf/2305.12086)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/MonliH/prefix-propagation)
+
+- Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts [[Paper](https://arxiv.org/pdf/2210.11292)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/xyltt/LPT)
+
+- OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning [[Paper](https://arxiv.org/pdf/2402.04129)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jpmorganchase/ovor)
 
 
 
