@@ -68,3 +68,47 @@
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/Hhhhhhao/Conv-Adapter)
 
+## 🚀 Single Task
+
+- VISION TRANSFORMER ADAPTER FOR DENSE PREDICTIONS [[Paper](https://arxiv.org/pdf/2205.08534)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/czczup/ViT-Adapter)
+
+- Simple, Scalable Adaptation for Neural Machine Translation [[Paper](https://paperswithcode.com/paper/simple-scalable-adaptation-for-neural-machine)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/simple-scalable-adaptation-for-neural-machine)
+
+## 🚀 Multi Task
+
+- Simple, Scalable Adaptation for Neural Machine Translation [[Paper](https://aclanthology.org/D19-1165.pdf)]
+  ![arXiv](https://img.shields.io/badge/ACL-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/simple-scalable-adaptation-for-neural-machine)
+
+- AdapterFusion: Non-Destructive Task Composition for Transfer Learning [[Paper](https://arxiv.org/pdf/2005.00247)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/adapterfusion-non-destructive-task)
+
+- OrchMoE: Efficient Multi-Adapter Learning with Task-Skill Synergy [[Paper](https://arxiv.org/pdf/2401.10559)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+
+- Multi-Head Adapter Routing for Cross-Task Generalization [[Paper](https://arxiv.org/pdf/2211.03831)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/microsoft/mttl)
+
+- Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks [[Paper](https://arxiv.org/pdf/2106.04489)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/rabeehk/hyperformer)
+
+- When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications [[Paper](https://arxiv.org/pdf/2310.18339)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/liuqidong07/MOELoRA-peft)
+
+- LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models [[Paper](https://aclanthology.org/2023.emnlp-main.319.pdf)]
+  ![arXiv](https://img.shields.io/badge/EMNLP-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/AGI-Edgerunners/LLM-Adapters)
+
+- AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models [[Paper](https://arxiv.org/pdf/2302.07027)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/adaptersoup-weight-averaging-to-improve)
+
+
