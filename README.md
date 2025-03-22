@@ -80,7 +80,7 @@
 
 ## 🚀 Multi Task
 
-- Simple, Scalable Adaptation for Neural Machine Translation [[Paper](https://aclanthology.org/D19-1165.pdf)]
+- K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters [[Paper](https://arxiv.org/pdf/2002.01808)]
   ![arXiv](https://img.shields.io/badge/ACL-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/simple-scalable-adaptation-for-neural-machine)
 
