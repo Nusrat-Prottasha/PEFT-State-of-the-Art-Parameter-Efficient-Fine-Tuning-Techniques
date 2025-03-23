@@ -326,3 +326,126 @@
 - AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning [[Paper](https://arxiv.org/pdf/2403.09113)]
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://anonymous.4open.science/r/AutoLoRA)
+
+
+
+## 🚀 Enhanced LoRA variants for fine tuning efficiency
+
+- Bayesian Low-Rank Adaptation for Large Language Models [[Paper](https://arxiv.org/html/2308.13111v5)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/MaximeRobeyns/bayesian_lora)
+
+- LoRA Dropout as a Sparsity Regularizer for Overfitting Control [[Paper](https://arxiv.org/html/2404.09610v1)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/lora-dropout-as-a-sparsity-regularizer-for)
+
+- PeriodicLoRA: Breaking the Low-Rank Bottleneck in LoRA Optimization [[Paper](https://arxiv.org/pdf/2402.16141)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/periodiclora-breaking-the-low-rank-bottleneck)
+
+- LoRA+: Efficient Low Rank Adaptation of Large Models [[Paper](https://arxiv.org/pdf/2402.12354)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/microsoft/LoRA)
+
+- Mixture-of-Subspaces in Low-Rank Adaptation [[Paper](https://arxiv.org/pdf/2406.11909)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/wutaiqiang/MoSLoRA)
+
+- Continual Learning with Low Rank Adaptation [[Paper](https://arxiv.org/pdf/2311.17601)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/continual-learning-with-low-rank-adaptation)
+
+- Trans-LoRA: Towards Data-Free Transferable Parameter Efficient Finetuning [[Paper](https://arxiv.org/html/2405.17258v1)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/textit-trans-lora-towards-data-free)
+
+- RoseLoRA: Row and Column-wise Sparse Low-Rank Adaptation [[Paper](https://arxiv.org/pdf/2406.10777)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/lliutianc/roselora)
+
+- Low-Rank Few-Shot Adaptation of Vision-Language Models [[Paper](https://arxiv.org/html/2405.18541v2)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/MaxZanella/CLIP-LoRA)
+
+- SVDQUANT: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models [[Paper](https://arxiv.org/pdf/2411.05007)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/mit-han-lab/nunchaku?tab=readme-ov-file)
+
+- Variational Low-Rank Adaptation Using IVON [[Paper](https://arxiv.org/pdf/2411.04421)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/team-approx-bayes/ivon-lora)
+
+- PMoL: Parameter Efficient MoE for Preference Mixing of LLM Alignment [[Paper](https://arxiv.org/pdf/2411.01245)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/pmol-parameter-efficient-moe-for-preference)
+
+- Empower Vision Applications with LoRA LMM [[Paper](https://arxiv.org/pdf/2411.00915)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+
+- LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition [[Paper](https://arxiv.org/pdf/2307.13269)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/sail-sg/lorahub)
+
+- MOELoRA: An MOE-based Parameter Efficient Fine-Tuning Method for Multi-task Medical Applications [[Paper](https://arxiv.org/pdf/2310.18339v1)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/liuqidong07/MOELoRA-peft)
+
+- Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning [[Paper](https://arxiv.org/pdf/2309.05444)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/for-ai/parameter-efficient-moe)
+
+- Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models [[Paper](https://arxiv.org/html/2403.03432v1)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/mixture-of-loras-an-efficient-multitask)
+
+- MIXTURE OF LORA EXPERTS [[Paper](https://arxiv.org/pdf/2404.13628)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+
+- MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts [[Paper](https://arxiv.org/html/2404.15159v2)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/TUDB-Labs/MixLoRA)
+
+
+
+## 🚀 Hybrid Approaches 
+
+
+- Towards a Unified View of Parameter-Efficient Transfer Learning [[Paper](https://arxiv.org/pdf/2110.04366)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jxhe/unify-parameter-efficient-tuning?tab=readme-ov-file)
+
+- UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning [[Paper](https://arxiv.org/pdf/2110.07577)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/morningmoni/UniPELT)
+
+- Parameter-Efficient Fine-Tuning Design Spaces [[Paper](https://arxiv.org/pdf/2301.01821)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/amazon-science/peft-design-spaces)
+
+- Neural Prompt Search [[Paper](https://arxiv.org/pdf/2206.04673)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/ZhangYuanhan-AI/NOAH)
+
+- AUTOPEFT: Automatic Configuration Search for Parameter-Efficient Fine-Tuning [[Paper](https://arxiv.org/pdf/2301.12132)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/cambridgeltl/autopeft)
+
+- LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models [[Paper](https://arxiv.org/pdf/2304.01933)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/AGI-Edgerunners/LLM-Adapters)
+
+- RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation [[Paper](https://arxiv.org/pdf/2401.04679)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/IST-DASLab/RoSA)
+
+- Sparsity- and Hybridity-Inspired Visual Parameter-Efficient Fine-Tuning for Medical Diagnosis [[Paper](https://arxiv.org/pdf/2405.17877)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+
+- HyperPELT: Unified Parameter-Efficient Language Model Tuning for Both Language and Vision-and-Language Tasks [[Paper](https://arxiv.org/pdf/2203.03878)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/hyperpelt-unified-parameter-efficient)
+
+- Hydra: Multi-head Low-rank Adaptation for Parameter Efficient Fine-tuning [[Paper](https://arxiv.org/pdf/2309.06922)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/extremebird/Hydra)
+
