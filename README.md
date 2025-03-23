@@ -273,4 +273,56 @@
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/arijitthegame/structured-matrices-PEFT)
 
 
-  
+## 🚀 Core Low Rank Decomposition
+
+
+- LoRA: Low-Rank Adaptation of Large Language Models [[Paper](https://arxiv.org/pdf/2106.09685)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/microsoft/LoRA)
+
+- Compacter: Efficient Low-Rank Hypercomplex Adapter Layers [[Paper](https://arxiv.org/pdf/2106.04647)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/rabeehk/compacter)
+
+- Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning [[Paper](https://arxiv.org/pdf/2012.13255)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/intrinsic-dimensionality-explains-the)
+
+- Parameter-Efficient Model Adaptation for Vision Transformers [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25160)]
+  ![AAAI](https://img.shields.io/badge/AAAI-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
+
+- Parameter-Efficient Fine-Tuning without Introducing New Latency [[Paper](https://arxiv.org/pdf/2305.16742)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/parameter-efficient-fine-tuning-without)
+
+- DoRA: Weight-Decomposed Low-Rank Adaptation [[Paper](https://arxiv.org/pdf/2402.09353)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/NVlabs/DoRA)
+
+- LLMEmbed: Rethinking Lightweight LLM’s Genuine Function in Text Classification [[Paper](https://arxiv.org/pdf/2406.03725)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/ChunLiu-cs/LLMEmbed-ACL2024)
+
+
+
+## 🚀 Adaptive and dynamic rank methods
+
+- DyLoRA: Parameter-Efficient Tuning of Pretrained Models using Dynamic Search-Free Low Rank Adaptation [[Paper](https://arxiv.org/pdf/2210.07558)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/dylora-parameter-efficient-tuning-of-pre)
+
+- AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning [[Paper](https://arxiv.org/pdf/2303.10512)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/QingruZhang/AdaLoRA)
+
+- Sparse Low-Rank Adaptation of Pre-trained Language Models [[Paper](https://arxiv.org/pdf/2311.11696)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/TsinghuaC3I/SoRA)
+
+- Increasing Model Capacity for Free: A Simple Strategy for Parameter-Efficient Fine-Tuning [[Paper](https://arxiv.org/pdf/2407.01320)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/LINs-lab/CapaBoost)
+
+- AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning [[Paper](https://arxiv.org/pdf/2403.09113)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://anonymous.4open.science/r/AutoLoRA)
