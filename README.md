@@ -254,3 +254,23 @@
 
 
 
+## 🚀 Structured Mask
+
+
+- Efficient Fine-Tuning of BERT Models on the Edge [[Paper](https://arxiv.org/pdf/2205.01541)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/efficient-fine-tuning-of-bert-models-on-the)
+
+- Cross-Attention is All You Need: Adapting Pretrained Transformers for Machine Translation [[Paper](https://arxiv.org/pdf/2104.08771)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/MGheini/xattn-transfer-for-mt)
+
+- X-PEFT: eXtremely Parameter-Efficient Fine-Tuning for Extreme Multi-Profile Scenarios [[Paper](https://arxiv.org/pdf/2401.16137)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+
+- Structured Unrestricted-Rank Matrices for Parameter Efficient Fine-tuning [[Paper](https://ar5iv.labs.arxiv.org/html/2406.17740)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/arijitthegame/structured-matrices-PEFT)
+
+
+  
