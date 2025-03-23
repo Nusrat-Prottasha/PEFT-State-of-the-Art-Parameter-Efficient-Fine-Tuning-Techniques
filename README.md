@@ -186,5 +186,25 @@
   ![EMNLP](https://img.shields.io/badge/EMNLP-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jyjohnchoi/SMoP)
 
+## 🚀 Task Specific Adaption
+
+- The Power of Scale for Parameter-Efficient Prompt Tuning [[Paper](https://arxiv.org/pdf/2104.08691)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/mkshing/Prompt-Tuning)
+
+- SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer [[Paper](https://arxiv.org/pdf/2110.07904)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/spot-better-frozen-model-adaptation-through)
+
+- APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference [[Paper](https://arxiv.org/html/2401.12200v2)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+
+- XPROMPT: Exploring the Extreme of Prompt Tuning [[Paper](https://arxiv.org/pdf/2210.04457)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/BD-MF/XPrompt?tab=readme-ov-file)
+
+- Parameter Efficient Multi-task Fine-tuning by Learning to Transfer Token-wise Prompts [[Paper](https://aclanthology.org/2023.findings-emnlp.584.pdf)]
+  ![EMNLP](https://img.shields.io/badge/EMNLP-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/mlwu22/TPT)
 
 
