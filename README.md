@@ -186,6 +186,8 @@
   ![EMNLP](https://img.shields.io/badge/EMNLP-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jyjohnchoi/SMoP)
 
+
+
 ## 🚀 Task Specific Adaption
 
 - The Power of Scale for Parameter-Efficient Prompt Tuning [[Paper](https://arxiv.org/pdf/2104.08691)]
@@ -208,6 +210,7 @@
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/mlwu22/TPT)
 
 
+
 ## 🚀 Selective Tuning Based on Parameter Importance
 
 - Parameter-Efficient Transfer Learning with Diff Pruning [[Paper](https://arxiv.org/pdf/2012.07463)]
@@ -228,5 +231,26 @@
 - Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning [[Paper](https://arxiv.org/pdf/2311.03748)]
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/psunlpgroup/FISH-DIP)
+
+
+
+## 🚀 Unstructured Mask
+
+- Neural Architecture Search for Parameter-Efficient Fine-tuning of Large Pre-trained Language Models [[Paper](https://arxiv.org/pdf/2305.16597)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/neural-architecture-search-for-parameter)
+
+- Composable Sparse Fine-Tuning for Cross-Lingual Transfer [[Paper](https://arxiv.org/pdf/2110.07560)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/cambridgeltl/composable-sft)
+
+- Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning [[Paper](https://arxiv.org/pdf/2109.05687)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/RunxinXu/ChildTuning)
+
+- Parameter-Efficient Fine-Tuning without Introducing New Latency [[Paper](https://arxiv.org/pdf/2305.16742)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/parameter-efficient-fine-tuning-without)
+
 
 
