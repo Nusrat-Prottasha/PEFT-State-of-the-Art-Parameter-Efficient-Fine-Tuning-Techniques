@@ -208,3 +208,25 @@
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/mlwu22/TPT)
 
 
+## 🚀 Selective Tuning Based on Parameter Importance
+
+- Parameter-Efficient Transfer Learning with Diff Pruning [[Paper](https://arxiv.org/pdf/2012.07463)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/dguo98/DiffPruning)
+
+- Targeted Efficient Fine-tuning: Optimizing Parameter Updates with Data-Driven Sample Selection [[Paper](https://arxiv.org/pdf/2403.08484)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+
+- Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models [[Paper](https://arxiv.org/pdf/2410.11772)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/Kaiseem/IST)
+
+- AdaFish: Fast Low-Rank Parameter-Efficient Fine-Tuning by Using Second-Order Information [[Paper](https://arxiv.org/pdf/2403.13128v1)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/adafish-fast-low-rank-parameter-efficient)
+
+- Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning [[Paper](https://arxiv.org/pdf/2311.03748)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/psunlpgroup/FISH-DIP)
+
+
