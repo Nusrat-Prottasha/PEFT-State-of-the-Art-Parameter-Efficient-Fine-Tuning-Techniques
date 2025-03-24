@@ -18,6 +18,11 @@
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/parovicm/tlr-adapters?tab=readme-ov-file)
 
+- BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning [[Paper](https://arxiv.org/pdf/1902.02671)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/AsaCooperStickland/Bert-n-Pals)
+
+
 
 ## 🚀 Parallel Adapters
 
@@ -68,6 +73,11 @@
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/Hhhhhhao/Conv-Adapter)
 
+- Conditional Adapters: Parameter-Efficient Transfer Learning with Fast Inference [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/19d7204af519eae9993f7f72377a0ec0-Paper-Conference.pdf)]
+  ![NeurIPS](https://img.shields.io/badge/NeurIPS-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/conditional-adapters-parameter-efficient)
+
+
 ## 🚀 Single Task
 
 - VISION TRANSFORMER ADAPTER FOR DENSE PREDICTIONS [[Paper](https://arxiv.org/pdf/2205.08534)]
@@ -77,6 +87,11 @@
 - Simple, Scalable Adaptation for Neural Machine Translation [[Paper](https://aclanthology.org/D19-1165.pdf)]
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://paperswithcode.com/paper/simple-scalable-adaptation-for-neural-machine)
+
+- K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters [[Paper](https://arxiv.org/pdf/2002.01808)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/microsoft/K-Adapter)
+
 
 ## 🚀 Multi Task
 
@@ -159,6 +174,12 @@
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/AkihikoWatanabe/paper_notes/issues/1684)
 
+- OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning [[Paper](https://arxiv.org/pdf/2402.04129)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jpmorganchase/ovor)
+
+  
+
 
 ## 🚀 Domain Specific Adaption (Natural Language Understanding)
 
@@ -209,6 +230,26 @@
   ![EMNLP](https://img.shields.io/badge/EMNLP-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/mlwu22/TPT)
 
+- IDPG: An Instance-Dependent Prompt Generation Method [[Paper](https://arxiv.org/pdf/2204.04497)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/CSerxy/IDPG)
+
+- APrompt: Attention Prompt Tuning for Efficient Adaptation of Pre-trained Language Models [[Paper](https://aclanthology.org/2023.emnlp-main.567.pdf)]
+  ![EMNLP](https://img.shields.io/badge/EMNLP-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/wgcban/apt)
+
+- SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts [[Paper](https://aclanthology.org/2023.emnlp-main.884.pdf)]
+  ![EMNLP](https://img.shields.io/badge/EMNLP-4a4a4a?style=flat&labelColor=4a4a4a&color=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/jyjohnchoi/SMoP)
+
+
+
+
+## 🚀 Scaling Adaption
+
+- Propulsion: Steering LLM with Tiny Fine-Tuning [[Paper](https://arxiv.org/pdf/2409.10927)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/Kowsher/Propulsion)
 
 
 ## 🚀 Selective Tuning Based on Parameter Importance
@@ -449,3 +490,25 @@
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/extremebird/Hydra)
 
+
+## 🚀 MoE Based
+
+- When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications [[Paper](https://arxiv.org/pdf/2310.18339)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/liuqidong07/MOELoRA-peft)
+
+- MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts [[Paper](https://arxiv.org/pdf/2404.15159)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/TUDB-Labs/MixLoRA)
+
+- Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning [[Paper](https://arxiv.org/pdf/2309.05444)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/for-ai/parameter-efficient-moe)
+
+- Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models [[Paper](https://arxiv.org/pdf/2403.03432)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://gist.github.com/ruvnet/809d0312c1c599ba29721c93a20a741c)
+
+- Mixture-of-Subspaces in Low-Rank Adaptation [[Paper](https://arxiv.org/pdf/2406.11909)]
+  ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
+  [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/wutaiqiang/MoSLoRA)
