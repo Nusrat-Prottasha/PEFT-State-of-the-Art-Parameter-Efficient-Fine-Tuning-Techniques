@@ -512,3 +512,87 @@
 - Mixture-of-Subspaces in Low-Rank Adaptation [[Paper](https://arxiv.org/pdf/2406.11909)]
   ![arXiv](https://img.shields.io/badge/arXiv-4a4a4a?style=flat&logo=arXiv&logoColor=white&labelColor=4a4a4a)
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/wutaiqiang/MoSLoRA)
+
+
+
+### 📄 PEFT Methods in NLP Tasks
+
+| **Date** | **Model** | **Paper Title** | **Link** |
+|----------|-----------|------------------|----------|
+| Mar 2024 | LLaMA-2 |  |  |
+|          | BLOOM-1B |  |  |
+|          | BLOOM-7B |  |  |
+|          | TigerBot-7B |  |  |
+|          | Mistral-7B |  |  |
+|          | ChatGPT-4 |  |  |
+|          | BERT |  |  |
+|          | GPT-2M |  |  |
+|          | GPT-2L |  |  |
+|          | LLaMA-1 |  |  |
+|          | LLaMA-2 |  |  |
+|          | LLaMA-3 |  |  |
+|          | GPT-S |  |  |
+|          | GPT2-M |  |  |
+|          | RobertaBase |  |  |
+|          | RobertaLarge |  |  |
+|          | DeBERTaV3-base |  |  |
+|          | BLOOMz |  |  |
+|          | GPT-J |  |  |
+|          | Mistral-7B-Instruct |  |  |
+|          | LLaMA-2-7B-chat |  |  |
+|          | LLaVA-1.5 |  |  |
+|          | ShareGPTv4 |  |  |
+|          | Qwen-VL-Chat |  |  |
+|          | GPT-Neo 2.7B |  |  |
+|          | GPT-J 6B |  |  |
+|          | LLaMA 7B |  |  |
+|          | LLaMA 13B |  |  |
+|          | ChatGLM-6B |  |  |
+|          | RoBERTa-large |  |  |
+|          | BERT-Base |  |  |
+|          | GPT2-Base |  |  |
+|          | BERT-Large |  |  |
+|          | GPT2-Med |  |  |
+|          | LLaMA2-7B |  |  |
+|          | LLaMA2-3B |  |  |
+|          | CodeLlama-7B |  |  |
+|          | DeepSeek-Coder-Base-6.7B |  |  |
+|          | CURE |  |  |
+|          | RewardRepair |  |  |
+|          | Recorder |  |  |
+|          | INCODER-1B |  |  |
+|          | INCODER-6B |  |  |
+|          | T5-BASE |  |  |
+|          | GEMMA-2B |  |  |
+|          | Gemma-7B |  |  |
+|          | LLaMA2-13B |  |  |
+|          | Gemma 2B |  |  |
+|          | OPT-13B |  |  |
+|          | LLaMA30B |  |  |
+|          | LLaMA-2-70B |  |  |
+|          | RoBERTaLarge |  |  |
+|          | BERTBASE |  |  |
+|          | T5SMALL |  |  |
+|          | T5BASE |  |  |
+|          | Flan-T5-base |  |  |
+|          | Flan-T5-xl |  |  |
+|          | OPT |  |  |
+|          | GPT2 |  |  |
+|          | ViT |  |  |
+|          | InCoder |  |  |
+|          | CodeGen |  |  |
+|          | Code Llama |  |  |
+|          | CodeT5 |  |  |
+|          | CCT5 |  |  |
+|          | OPT6.7B |  |  |
+|          | Galactica |  |  |
+|          | Text+Chem T5 |  |  |
+|          | LlaSMol |  |  |
+|          | Tag-LLaMA |  |  |
+|          | OPT-1.3B |  |  |
+
+
+
+
+
+  
