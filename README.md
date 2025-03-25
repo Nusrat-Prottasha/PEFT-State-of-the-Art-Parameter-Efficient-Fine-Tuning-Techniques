@@ -525,16 +525,16 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 |------|-------|-------------|-------|
 | July 2024 | LLaMA3-8B | The Llama 3 Herd of Models | [arXiv](https://arxiv.org/abs/2407.21783) [GitHub](https://github.com/meta-llama/llama3) |
 | Jan 2024 | TinyLlama | TinyLlama: An Open-Source Small Language Model | [arXiv](https://arxiv.org/abs/2401.02385) [GitHub](https://github.com/jzhang38/TinyLlama) |
-| 2024 | ShareGPTv4(7B) | ShareGPT4V: Improving Large Multi-Modal Models with Better Captions | [arXiv](https://arxiv.org/abs/2311.12793) [GitHub](https://github.com/InternLM/InternLM-XComposer) |
-| 2024 | Qwen-VL-Chat(7B) | Qwen-VL: A Vision-Language Foundation Model for Universal Multimodal Understanding and Generation | [arXiv](https://arxiv.org/abs/2308.12966) [GitHub](https://github.com/QwenLM/Qwen-VL) |
-| 2024 | LLaVA-1.5 | Improved Baselines with Visual Instruction Tuning | [arXiv](https://arxiv.org/abs/2310.03744) [GitHub](https://github.com/haotian-liu/LLaVA) |
-| 2024 | Mistral-7B-Instruct | Mistral 7B: A Strong, Efficient Language Model | [arXiv](https://arxiv.org/abs/2310.06825) [GitHub](https://github.com/mistralai/mistral-7b) |
-| 2024 | Openchat8B | OpenChat: Advancing Open-source Language Models with Mixed-Quality Data | [arXiv](https://arxiv.org/abs/2309.11235) [GitHub](https://github.com/imoneoi/openchat) |
-| 2024 | ChatGLM-6B | ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools | [arXiv](https://arxiv.org/abs/2406.12793) [GitHub](https://github.com/THUDM/ChatGLM-6B) |
-| 2024 | LlaSMol | LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset | [arXiv](https://arxiv.org/abs/2402.09391) [GitHub](https://github.com/ai4chem/llasmol) |
-| 2024 | Tag-LLaMA | TagLLM: Instruction Tuning LLM with Tag Embeddings for Molecular Property Prediction | [arXiv](https://arxiv.org/abs/2402.05838) |
-| 2024 | Mamba-2 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | [arXiv](https://arxiv.org/abs/2312.00752) [GitHub](https://github.com/state-spaces/mamba) |
-| 2024 | Mamba | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | [arXiv](https://arxiv.org/abs/2312.00752) [GitHub](https://github.com/state-spaces/mamba) |
+| 21 Nov 2023 | ShareGPTv4(7B) | ShareGPT4V: Improving Large Multi-Modal Models with Better Captions | [arXiv](https://arxiv.org/abs/2311.12793) [GitHub](https://sharegpt4v.github.io/) |
+| 24 Aug 2023 | Qwen-VL-Chat(7B) | Qwen-VL: A Vision-Language Foundation Model for Universal Multimodal Understanding and Generation | [arXiv](https://arxiv.org/abs/2308.12966) [GitHub](https://github.com/QwenLM/Qwen-VL) |
+| 15 May 2024 | LLaVA-1.5 | Improved Baselines with Visual Instruction Tuning | [arXiv](https://arxiv.org/abs/2310.03744) [GitHub](https://github.com/haotian-liu/LLaVA) |
+| 10 Oct 2023 | Mistral-7B-Instruct | Mistral 7B | [arXiv](https://arxiv.org/abs/2310.06825) [GitHub](https://github.com/mistralai/mistral-inference) |
+| 16 Mar 2024 | Openchat8B | OpenChat: Advancing Open-source Language Models with Mixed-Quality Data | [arXiv](https://arxiv.org/abs/2309.11235) [GitHub](https://github.com/imoneoi/openchat) |
+| 18 June 2024 | ChatGLM-6B | ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools | [arXiv](https://arxiv.org/abs/2406.12793) [GitHub](https://github.com/THUDM/ChatGLM-6B) |
+| 14 Feb 2024 | LlaSMol | LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset | [arXiv](https://arxiv.org/abs/2402.09391) [GitHub](https://github.com/OSU-NLP-Group/LLM4Chem) |
+| 26 June 2024 | Tag-LLaMA | Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains | [arXiv](https://arxiv.org/abs/2402.05140) |
+| 31 May 2024 | Mamba-2 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | [arXiv](https://arxiv.org/abs/2405.21060) [GitHub](https://github.com/state-spaces/mamba) |
+| Dec 1 2023 | Mamba | Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality | [arXiv](https://arxiv.org/abs/2312.00752) [GitHub](https://github.com/state-spaces/mamba) |
 | 2024 | TigerBot-7B | TigerBot: A Multi-stage Open-Source LLM for Human and Agent Scenarios | [arXiv](https://arxiv.org/abs/2312.08688) [GitHub](https://github.com/TigerResearch/TigerBot) |
 | 2024 | GEMMA-2B | Gemma: Open Models Based on Gemini Research and Technology | [arXiv](https://arxiv.org/abs/2403.08295) [GitHub](https://github.com/google-gemma/gemma) |
 | 2024 | Gemma-7B | Gemma: Open Models Based on Gemini Research and Technology | [arXiv](https://arxiv.org/abs/2403.08295) [GitHub](https://github.com/google-gemma/gemma) |
