@@ -522,9 +522,9 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 ## Models and Papers
 
 | Year | Model | Paper Title | Links |
-|------|-------|-------------|-------|
-| July 2024 | LLaMA3-8B | The Llama 3 Herd of Models | [arXiv](https://arxiv.org/abs/2407.21783) [GitHub](https://github.com/meta-llama/llama3) |
-| Jan 2024 | TinyLlama | TinyLlama: An Open-Source Small Language Model | [arXiv](https://arxiv.org/abs/2401.02385) [GitHub](https://github.com/jzhang38/TinyLlama) |
+|---------|-------|-------------|-------|
+| 31 July 2024 | LLaMA3-8B | The Llama 3 Herd of Models | [arXiv](https://arxiv.org/abs/2407.21783) [GitHub](https://github.com/meta-llama/llama3) |
+| 4 Jan 2024 | TinyLlama | TinyLlama: An Open-Source Small Language Model | [arXiv](https://arxiv.org/abs/2401.02385) [GitHub](https://github.com/jzhang38/TinyLlama) |
 | 21 Nov 2023 | ShareGPTv4(7B) | ShareGPT4V: Improving Large Multi-Modal Models with Better Captions | [arXiv](https://arxiv.org/abs/2311.12793) [GitHub](https://sharegpt4v.github.io/) |
 | 24 Aug 2023 | Qwen-VL-Chat(7B) | Qwen-VL: A Vision-Language Foundation Model for Universal Multimodal Understanding and Generation | [arXiv](https://arxiv.org/abs/2308.12966) [GitHub](https://github.com/QwenLM/Qwen-VL) |
 | 15 May 2024 | LLaVA-1.5 | Improved Baselines with Visual Instruction Tuning | [arXiv](https://arxiv.org/abs/2310.03744) [GitHub](https://github.com/haotian-liu/LLaVA) |
