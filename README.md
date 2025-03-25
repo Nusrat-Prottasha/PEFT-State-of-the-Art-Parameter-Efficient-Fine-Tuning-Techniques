@@ -536,16 +536,13 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | 31 May 2024 | Mamba-2 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | [arXiv](https://arxiv.org/abs/2405.21060) [GitHub](https://github.com/state-spaces/mamba) |
 | Dec 1 2023 | Mamba | Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality | [arXiv](https://arxiv.org/abs/2312.00752) [GitHub](https://github.com/state-spaces/mamba) |
 | 14 Dec 2024 | TigerBot-7B | TigerBot: A Multi-stage Open-Source LLM for Human and Agent Scenarios | [arXiv](https://arxiv.org/abs/2312.08688) [GitHub](https://github.com/TigerResearch/TigerBot) |
-| 16 April 2024 | GEMMA-2B  Gemma-7B | Gemma: Open Models Based on Gemini Research and Technology | [arXiv](https://arxiv.org/abs/2403.08295) [GitHub](https://github.com/google-gemma/gemma) |
+| 16 April 2024 | GEMMA-2B,  Gemma-7B | Gemma: Open Models Based on Gemini Research and Technology | [arXiv](https://arxiv.org/abs/2403.08295) [GitHub](https://github.com/google-gemma/gemma) |
 | 2024 | DeepSeek-Coder-Base-6.7B | DeepSeek Coder: When the Large Language Model Meets Programming | [arXiv](https://arxiv.org/abs/2401.14196) [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) |
-| 2024 | CURE | CURE: Code Understanding and Repair | [Paper](https://ieeexplore.ieee.org/document/9401995) |
-| 2024 | RewardRepair | Neural Program Repair with Execution-based Backpropagation | [arXiv](https://arxiv.org/abs/2105.04123) |
-| 2024 | Recorder | A Syntax-Guided Edit Decoder for Neural Program Repair | [Paper](https://dl.acm.org/doi/10.1145/3468264.3468544) |
-| 2024 | CodeLlama-7B | Code Llama: Open Foundation Models for Code | [arXiv](https://arxiv.org/abs/2308.12950) [GitHub](https://github.com/facebookresearch/codellama) |
-| 2024 | Llama2-7b | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288) [GitHub](https://github.com/facebookresearch/llama) |
-| 2024 | Llama2-3b | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288) [GitHub](https://github.com/facebookresearch/llama) |
-| 2024 | Llama 2-13B | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288) [GitHub](https://github.com/facebookresearch/llama) |
-| 2024 | LLaMA-2-70B | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288) [GitHub](https://github.com/facebookresearch/llama) |
+| 7 May 2021 | CURE | Code-Aware Neural Machine Translation for Automatic Program Repair | [Paper](https://ieeexplore.ieee.org/abstract/document/9401997) |
+| 10 April 2022 | RewardRepair | Neural Program Repair with Execution-based Backpropagation | [arXiv](https://arxiv.org/abs/2105.04123) |
+| 18 Aug 2024 | Recorder | A Syntax-Guided Edit Decoder for Neural Program Repair | [Paper](https://dl.acm.org/doi/10.1145/3468264.3468544) |
+| 24 Aug 2023 | CodeLlama-7B | Code Llama: Open Foundation Models for Code | [arXiv](https://arxiv.org/abs/2308.12950) [GitHub](https://github.com/facebookresearch/codellama) |
+| 18 July 2023 | Llama2-7b,3b,13b,70b | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288) [GitHub](https://github.com/facebookresearch/llama) |
 | 2024 | LLaMA30B | LLaMA: Open and Efficient Foundation Language Models | [arXiv](https://arxiv.org/abs/2302.13971) [GitHub](https://github.com/facebookresearch/llama) |
 | 2024 | INCODER-1B | InCoder: A Generative Model for Code Infilling and Synthesis | [arXiv](https://arxiv.org/abs/2204.05999) [GitHub](https://github.com/dpfried/incoder) |
 | 2024 | INCODER-6B | InCoder: A Generative Model for Code Infilling and Synthesis | [arXiv](https://arxiv.org/abs/2204.05999) [GitHub](https://github.com/dpfried/incoder) |
