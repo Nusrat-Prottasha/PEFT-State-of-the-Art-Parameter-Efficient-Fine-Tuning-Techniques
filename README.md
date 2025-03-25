@@ -523,7 +523,7 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 
 | Year | Model | Paper Title | Links |
 |------|-------|-------------|-------|
-| July 2024 | LLaMA3-8B | LLaMA 3: An Improved Open Foundation Language Model | [arXiv](https://arxiv.org/abs/2407.21783) [GitHub](https://github.com/meta-llama/llama3) |
+| July 2024 | LLaMA3-8B | The Llama 3 Herd of Models | [arXiv](https://arxiv.org/abs/2407.21783) [GitHub](https://github.com/meta-llama/llama3) |
 | 2024 | TinyLlama | TinyLlama: Open Models Inspired by Llama 2 | [arXiv](https://arxiv.org/abs/2402.17432), [GitHub](https://github.com/jzhang38/TinyLlama) |
 | 2024 | Airavata-7b | Airavata: Sanskrit-English Neural Machine Translation | [Paper](https://aclanthology.org/2024.wmt-1.17/) |
 | 2024 | ShareGPTv4(7B) | ShareGPT4V: Improving Large Multi-Modal Models with Better Captions | [arXiv](https://arxiv.org/abs/2311.12793), [GitHub](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) |
