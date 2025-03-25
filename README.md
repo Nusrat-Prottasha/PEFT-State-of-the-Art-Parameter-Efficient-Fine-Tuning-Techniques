@@ -545,9 +545,9 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | 18 July 2023 | Llama2-7b,3b,13b,70b | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288) [GitHub](https://github.com/facebookresearch/llama) |
 |27 Feb 2023 | LLaMA30B | LLaMA: Open and Efficient Foundation Language Models | [arXiv](https://arxiv.org/abs/2302.13971) [GitHub](https://github.com/facebookresearch/llama) |
 | 12 April 2022 | INCODER-1B,6B | InCoder: A Generative Model for Code Infilling and Synthesis | [arXiv](https://arxiv.org/abs/2204.05999) [GitHub](https://github.com/dpfried/incoder) |
-| 2024 | Vicuna-7b,13b | Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena | [arXiv](https://arxiv.org/abs/2306.05685) [GitHub](https://github.com/lm-sys/FastChat) |
-| 2024 | Baichuan2-13B | Baichuan 2: Open Large-scale Language Models | [arXiv](https://arxiv.org/abs/2309.10305) [GitHub](https://github.com/baichuan-inc/Baichuan2) |
-| 2024 | DialoGPT | DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation | [arXiv](https://arxiv.org/abs/1911.00536) [GitHub](https://github.com/microsoft/DialoGPT) |
+| 9 June 2023 | Vicuna-7b,13b | Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena | [arXiv](https://arxiv.org/abs/2306.05685) [GitHub](https://github.com/lm-sys/FastChat) |
+| 19 April 2023 | Baichuan2-13B | Baichuan 2: Open Large-scale Language Models | [arXiv](https://arxiv.org/abs/2309.10305) [GitHub](https://github.com/baichuan-inc/Baichuan2) |
+|1 Nov 2019 | DialoGPT | DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation | [arXiv](https://arxiv.org/abs/1911.00536) [GitHub](https://github.com/microsoft/DialoGPT) |
 | 2024 | BERT-BASE | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | [arXiv](https://arxiv.org/abs/1810.04805) [GitHub](https://github.com/google-research/bert) |
 | 2024 | DeBERTaV3-base | DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing | [arXiv](https://arxiv.org/abs/2111.09543) [GitHub](https://github.com/microsoft/DeBERTa) |
 | 2024 | CCT5 | CCT5: Code Completion with T5 | [arXiv](https://arxiv.org/abs/2308.06590) |
