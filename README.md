@@ -535,9 +535,8 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | 26 June 2024 | Tag-LLaMA | Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains | [arXiv](https://arxiv.org/abs/2402.05140) |
 | 31 May 2024 | Mamba-2 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | [arXiv](https://arxiv.org/abs/2405.21060) [GitHub](https://github.com/state-spaces/mamba) |
 | Dec 1 2023 | Mamba | Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality | [arXiv](https://arxiv.org/abs/2312.00752) [GitHub](https://github.com/state-spaces/mamba) |
-| 2024 | TigerBot-7B | TigerBot: A Multi-stage Open-Source LLM for Human and Agent Scenarios | [arXiv](https://arxiv.org/abs/2312.08688) [GitHub](https://github.com/TigerResearch/TigerBot) |
-| 2024 | GEMMA-2B | Gemma: Open Models Based on Gemini Research and Technology | [arXiv](https://arxiv.org/abs/2403.08295) [GitHub](https://github.com/google-gemma/gemma) |
-| 2024 | Gemma-7B | Gemma: Open Models Based on Gemini Research and Technology | [arXiv](https://arxiv.org/abs/2403.08295) [GitHub](https://github.com/google-gemma/gemma) |
+| 14 Dec 2024 | TigerBot-7B | TigerBot: A Multi-stage Open-Source LLM for Human and Agent Scenarios | [arXiv](https://arxiv.org/abs/2312.08688) [GitHub](https://github.com/TigerResearch/TigerBot) |
+| 16 April 2024 | GEMMA-2B  Gemma-7B | Gemma: Open Models Based on Gemini Research and Technology | [arXiv](https://arxiv.org/abs/2403.08295) [GitHub](https://github.com/google-gemma/gemma) |
 | 2024 | DeepSeek-Coder-Base-6.7B | DeepSeek Coder: When the Large Language Model Meets Programming | [arXiv](https://arxiv.org/abs/2401.14196) [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) |
 | 2024 | CURE | CURE: Code Understanding and Repair | [Paper](https://ieeexplore.ieee.org/document/9401995) |
 | 2024 | RewardRepair | Neural Program Repair with Execution-based Backpropagation | [arXiv](https://arxiv.org/abs/2105.04123) |
