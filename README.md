@@ -515,82 +515,102 @@
 
 
 
-### 📄 PEFT Methods in NLP Tasks
+# PEFT Methods in NLP Tasks
 
-| **Date** | **Model** | **Paper Title** | **Link** |
-|----------|-----------|------------------|----------|
-| Mar 2024 | LLaMA-2 |  |  |
-|          | BLOOM-1B |  |  |
-|          | BLOOM-7B |  |  |
-|          | TigerBot-7B |  |  |
-|          | Mistral-7B |  |  |
-|          | ChatGPT-4 |  |  |
-|          | BERT |  |  |
-|          | GPT-2M |  |  |
-|          | GPT-2L |  |  |
-|          | LLaMA-1 |  |  |
-|          | LLaMA-2 |  |  |
-|          | LLaMA-3 |  |  |
-|          | GPT-S |  |  |
-|          | GPT2-M |  |  |
-|          | RobertaBase |  |  |
-|          | RobertaLarge |  |  |
-|          | DeBERTaV3-base |  |  |
-|          | BLOOMz |  |  |
-|          | GPT-J |  |  |
-|          | Mistral-7B-Instruct |  |  |
-|          | LLaMA-2-7B-chat |  |  |
-|          | LLaVA-1.5 |  |  |
-|          | ShareGPTv4 |  |  |
-|          | Qwen-VL-Chat |  |  |
-|          | GPT-Neo 2.7B |  |  |
-|          | GPT-J 6B |  |  |
-|          | LLaMA 7B |  |  |
-|          | LLaMA 13B |  |  |
-|          | ChatGLM-6B |  |  |
-|          | RoBERTa-large |  |  |
-|          | BERT-Base |  |  |
-|          | GPT2-Base |  |  |
-|          | BERT-Large |  |  |
-|          | GPT2-Med |  |  |
-|          | LLaMA2-7B |  |  |
-|          | LLaMA2-3B |  |  |
-|          | CodeLlama-7B |  |  |
-|          | DeepSeek-Coder-Base-6.7B |  |  |
-|          | CURE |  |  |
-|          | RewardRepair |  |  |
-|          | Recorder |  |  |
-|          | INCODER-1B |  |  |
-|          | INCODER-6B |  |  |
-|          | T5-BASE |  |  |
-|          | GEMMA-2B |  |  |
-|          | Gemma-7B |  |  |
-|          | LLaMA2-13B |  |  |
-|          | Gemma 2B |  |  |
-|          | OPT-13B |  |  |
-|          | LLaMA30B |  |  |
-|          | LLaMA-2-70B |  |  |
-|          | RoBERTaLarge |  |  |
-|          | BERTBASE |  |  |
-|          | T5SMALL |  |  |
-|          | T5BASE |  |  |
-|          | Flan-T5-base |  |  |
-|          | Flan-T5-xl |  |  |
-|          | OPT |  |  |
-|          | GPT2 |  |  |
-|          | ViT |  |  |
-|          | InCoder |  |  |
-|          | CodeGen |  |  |
-|          | Code Llama |  |  |
-|          | CodeT5 |  |  |
-|          | CCT5 |  |  |
-|          | OPT6.7B |  |  |
-|          | Galactica |  |  |
-|          | Text+Chem T5 |  |  |
-|          | LlaSMol |  |  |
-|          | Tag-LLaMA |  |  |
-|          | OPT-1.3B |  |  |
+This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) methods for Natural Language Processing tasks.
 
+## Models and Papers
+
+| Year | Model | Paper Title | Links |
+|------|-------|-------------|-------|
+| July 2024 | LLaMA3-8B | LLaMA 3: An Improved Open Foundation Language Model | [arXiv](https://arxiv.org/abs/2407.21783) [GitHub](https://github.com/meta-llama/llama3) |
+| 2024 | TinyLlama | TinyLlama: Open Models Inspired by Llama 2 | [arXiv](https://arxiv.org/abs/2402.17432), [GitHub](https://github.com/jzhang38/TinyLlama) |
+| 2024 | Airavata-7b | Airavata: Sanskrit-English Neural Machine Translation | [Paper](https://aclanthology.org/2024.wmt-1.17/) |
+| 2024 | ShareGPTv4(7B) | ShareGPT4V: Improving Large Multi-Modal Models with Better Captions | [arXiv](https://arxiv.org/abs/2311.12793), [GitHub](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) |
+| 2024 | Qwen-VL-Chat(7B) | Qwen-VL: A Vision-Language Foundation Model for Universal Multimodal Understanding and Generation | [arXiv](https://arxiv.org/abs/2308.12966), [GitHub](https://github.com/QwenLM/Qwen-VL) |
+| 2024 | LLaVA-1.5 | Improved Baselines with Visual Instruction Tuning | [arXiv](https://arxiv.org/abs/2310.03744), [GitHub](https://github.com/haotian-liu/LLaVA) |
+| 2024 | Mistral-7B-Instruct | Mistral 7B Instruct: Fine-tuned Language Model for Instruction Following | [arXiv](https://arxiv.org/abs/2310.06825), [GitHub](https://github.com/mistralai/mistral-7b-instruct) |
+| 2024 | Openchat8B | OpenChat: Advancing Open-source Language Models with Mixed-Quality Data | [arXiv](https://arxiv.org/abs/2309.11235), [GitHub](https://github.com/imoneoi/openchat) |
+| 2024 | ChatGLM-6B | ChatGLM: An Open Bilingual Dialogue Language Model | [GitHub](https://github.com/THUDM/ChatGLM-6B) |
+| 2024 | LlaSMol | LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset | [arXiv](https://arxiv.org/abs/2402.09391), [GitHub](https://github.com/ai4chem/llasmol) |
+| 2024 | Tag-LLaMA | TagLLM: Instruction Tuning LLM with Tag Embeddings for Molecular Property Prediction | [arXiv](https://arxiv.org/abs/2402.05838) |
+| 2024 | Mamba-2 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | [arXiv](https://arxiv.org/abs/2312.00752), [GitHub](https://github.com/state-spaces/mamba) |
+| 2024 | Mamba | State Space Models as Foundation Models: The Case of Mamba for Vision | [arXiv](https://arxiv.org/abs/2406.04061) |
+| 2024 | TigerBot-7B | TigerBot: A Multi-stage Open-Source LLM for Human and Agent Scenarios | [arXiv](https://arxiv.org/abs/2312.08688), [GitHub](https://github.com/TigerResearch/TigerBot) |
+| 2024 | GEMMA-2B | Gemma: Open Models Based on Gemini Research and Technology | [arXiv](https://arxiv.org/abs/2403.08295), [GitHub](https://github.com/google-gemma/gemma) |
+| 2024 | Gemma-7B | Gemma: Open Models Based on Gemini Research and Technology | [arXiv](https://arxiv.org/abs/2403.08295), [GitHub](https://github.com/google-gemma/gemma) |
+| 2024 | DeepSeek-Coder-Base-6.7B | DeepSeek Coder: When the Large Language Model Meets Programming | [arXiv](https://arxiv.org/abs/2401.14196), [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) |
+| 2024 | CURE | CURE: Code Understanding and Repair | [Paper](https://ieeexplore.ieee.org/document/9401995) |
+| 2024 | RewardRepair | Neural Program Repair with Execution-based Backpropagation | [arXiv](https://arxiv.org/abs/2105.04123) |
+| 2024 | Recorder | Syntax-Guided Edit Decoder for Neural Program Repair | [Paper](https://dl.acm.org/doi/10.1145/3468264.3468544) |
+| 2024 | CodeLlama-7B | Code Llama: Open Foundation Models for Code | [arXiv](https://arxiv.org/abs/2308.12950), [GitHub](https://github.com/facebookresearch/codellama) |
+| 2024 | Llama2-7b | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288), [GitHub](https://github.com/facebookresearch/llama) |
+| 2024 | Llama2-3b | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288), [GitHub](https://github.com/facebookresearch/llama) |
+| 2024 | Llama 2-13B | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288), [GitHub](https://github.com/facebookresearch/llama) |
+| 2024 | LLaMA-2-70B | Llama 2: Open Foundation and Fine-Tuned Chat Models | [arXiv](https://arxiv.org/abs/2307.09288), [GitHub](https://github.com/facebookresearch/llama) |
+| 2024 | LLaMA30B | LLaMA: Open and Efficient Foundation Language Models | [arXiv](https://arxiv.org/abs/2302.13971), [GitHub](https://github.com/facebookresearch/llama) |
+| 2024 | INCODER-1B | InCoder: A Generative Model for Code Infilling and Synthesis | [arXiv](https://arxiv.org/abs/2204.05999), [GitHub](https://github.com/dpfried/incoder) |
+| 2024 | INCODER-6B | InCoder: A Generative Model for Code Infilling and Synthesis | [arXiv](https://arxiv.org/abs/2204.05999), [GitHub](https://github.com/dpfried/incoder) |
+| 2024 | Vicuna-7b | Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality | [Blog](https://lmsys.org/blog/2023-03-30-vicuna/), [GitHub](https://github.com/lm-sys/FastChat) |
+| 2024 | Vicuna-13b | Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality | [Blog](https://lmsys.org/blog/2023-03-30-vicuna/), [GitHub](https://github.com/lm-sys/FastChat) |
+| 2024 | Baichuan2-13B | Baichuan 2: Open Large-scale Language Models | [arXiv](https://arxiv.org/abs/2309.10305), [GitHub](https://github.com/baichuan-inc/Baichuan2) |
+| 2024 | DialoGPT | DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation | [arXiv](https://arxiv.org/abs/1911.00536), [GitHub](https://github.com/microsoft/DialoGPT) |
+| 2024 | BERT-BASE | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | [arXiv](https://arxiv.org/abs/1810.04805), [GitHub](https://github.com/google-research/bert) |
+| 2024 | DeBERTaV3-base | DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing | [arXiv](https://arxiv.org/abs/2111.09543), [GitHub](https://github.com/microsoft/DeBERTa) |
+| 2024 | CCT5 | CCT5: Code Completion with T5 | [arXiv](https://arxiv.org/abs/2308.06590) |
+| 2024 | CodeT5 | CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation | [arXiv](https://arxiv.org/abs/2109.00859), [GitHub](https://github.com/salesforce/CodeT5) |
+| 2024 | CodeGen | CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis | [arXiv](https://arxiv.org/abs/2203.13474), [GitHub](https://github.com/salesforce/CodeGen) |
+| 2024 | InCoder | InCoder: A Generative Model for Code Infilling and Synthesis | [arXiv](https://arxiv.org/abs/2204.05999), [GitHub](https://github.com/dpfried/incoder) |
+| 2024 | Galactica | Galactica: A Large Language Model for Science | [arXiv](https://arxiv.org/abs/2211.09085), [GitHub](https://github.com/paperswithcode/galai) |
+| 2024 | Text+Chem T5 | Unifying Molecular and Textual Representations via Multi-task Language Modelling | [arXiv](https://arxiv.org/abs/2301.12586) |
+| 2024 | BLOOM-7B | BLOOM: A 176B-Parameter Open-Access Multilingual Language Model | [arXiv](https://arxiv.org/abs/2211.05100), [GitHub](https://github.com/bigscience-workshop/bloom) |
+| 2024 | BLOOM-1B | BLOOM: A 176B-Parameter Open-Access Multilingual Language Model | [arXiv](https://arxiv.org/abs/2211.05100), [GitHub](https://github.com/bigscience-workshop/bloom) |
+| 2024 | BLOOMz | Improving Language Models via Pluggable Decoding | [arXiv](https://arxiv.org/abs/2401.15883) |
+| 2024 | Falcon | Falcon: A New Training Method for Knowledge-Intensive Language Tasks | [arXiv](https://arxiv.org/abs/2306.01116), [GitHub](https://github.com/falconllm/falcon) |
+| 2024 | ChatGPT-4 | GPT-4 Technical Report | [arXiv](https://arxiv.org/abs/2303.08774) |
+| 2024 | GPT-J | GPT-J: 6B parameter open source transformer model | [GitHub](https://github.com/kingoflolz/mesh-transformer-jax) |
+| 2024 | GPT-Neo | GPT-Neo: Implementation of model parallel GPT2-like models | [GitHub](https://github.com/EleutherAI/gpt-neo) |
+| 2024 | GPT2-M | Language Models are Unsupervised Multitask Learners | [Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GitHub](https://github.com/openai/gpt-2) |
+| 2024 | GPT2-L | Language Models are Unsupervised Multitask Learners | [Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GitHub](https://github.com/openai/gpt-2) |
+| 2024 | GPT2 | Language Models are Unsupervised Multitask Learners | [Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GitHub](https://github.com/openai/gpt-2) |
+| 2024 | GPT-3.5 | GPT-3.5 Technical Report | [Blog](https://openai.com/blog/chatgpt) |
+| 2024 | OPT-13B | OPT: Open Pre-trained Transformer Language Models | [arXiv](https://arxiv.org/abs/2205.01068), [GitHub](https://github.com/facebookresearch/metaseq) |
+| 2024 | OPT-6.7B | OPT: Open Pre-trained Transformer Language Models | [arXiv](https://arxiv.org/abs/2205.01068), [GitHub](https://github.com/facebookresearch/metaseq) |
+| 2024 | OPT-1.3B | OPT: Open Pre-trained Transformer Language Models | [arXiv](https://arxiv.org/abs/2205.01068), [GitHub](https://github.com/facebookresearch/metaseq) |
+| 2024 | OPT | OPT: Open Pre-trained Transformer Language Models | [arXiv](https://arxiv.org/abs/2205.01068), [GitHub](https://github.com/facebookresearch/metaseq) |
+| 2024 | RoBERTa-Large | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [arXiv](https://arxiv.org/abs/1907.11692), [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/roberta) |
+| 2024 | RoBERTa-Base | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [arXiv](https://arxiv.org/abs/1907.11692), [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/roberta) |
+| 2024 | T5-BASE | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | [arXiv](https://arxiv.org/abs/1910.10683), [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
+| 2024 | T5-SMALL | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | [arXiv](https://arxiv.org/abs/1910.10683), [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
+| 2024 | T5-Large | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | [arXiv](https://arxiv.org/abs/1910.10683), [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
+| 2024 | Flan-T5-base | Scaling Instruction-Finetuned Language Models | [arXiv](https://arxiv.org/abs/2210.11416), [GitHub](https://github.com/google-research/t5x) |
+| 2024 | Flan-T5-xl | Scaling Instruction-Finetuned Language Models | [arXiv](https://arxiv.org/abs/2210.11416), [GitHub](https://github.com/google-research/t5x) |
+| 2024 | BART-Large | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | [arXiv](https://arxiv.org/abs/1910.13461), [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/bart) |
+| 2024 | ViT | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | [arXiv](https://arxiv.org/abs/2010.11929), [GitHub](https://github.com/google-research/vision_transformer) |
+| 2024 | ALBERT | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations | [arXiv](https://arxiv.org/abs/1909.11942), [GitHub](https://github.com/google-research/albert) |
+| 2024 | DistilBERT | DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter | [arXiv](https://arxiv.org/abs/1910.01108), [GitHub](https://github.com/huggingface/transformers/tree/main/examples/research_projects/distillation) |
+| 2023 | GPT-3 | Language Models are Few-Shot Learners | [arXiv](https://arxiv.org/abs/2005.14165) |
+| 2023 | ChatGPT | Introducing ChatGPT | [Blog](https://openai.com/blog/chatgpt) |
+| 2023 | RoBERTaLARGE | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [arXiv](https://arxiv.org/abs/1907.11692), [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/roberta) |
+| 2023 | TwinBERT | TwinBERT: Distilling Knowledge to Twin-Structured BERT Models for Efficient Retrieval | [arXiv](https://arxiv.org/abs/2002.06275) |
+| 2023 | ColBERT | ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT | [arXiv](https://arxiv.org/abs/2004.12832), [GitHub](https://github.com/stanford-futuredata/ColBERT) |
+| 2023 | BART | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | [arXiv](https://arxiv.org/abs/1910.13461), [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/bart) |
+| 2023 | mBART | Multilingual Denoising Pre-training for Neural Machine Translation | [arXiv](https://arxiv.org/abs/2001.08210), [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/mbart) |
+| 2023 | GPT-4 | GPT-4 Technical Report | [arXiv](https://arxiv.org/abs/2303.08774) |
+| 2023 | ELECTRA | ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators | [arXiv](https://arxiv.org/abs/2003.10555), [GitHub](https://github.com/google-research/electra) |
+| 2023 | PaLM | PaLM: Scaling Language Modeling with Pathways | [arXiv](https://arxiv.org/abs/2204.02311) |
+| 2022 | BLEU | BLEU: a Method for Automatic Evaluation of Machine Translation | [arXiv](https://aclanthology.org/P02-1040.pdf) |
+| 2022 | EFL | Entailment as Few-Shot Learner | [arXiv](https://arxiv.org/abs/2104.14690) |
+| 2022 | DeBERTaLARGE | DeBERTa: Decoding-enhanced BERT with Disentangled Attention | [arXiv](https://arxiv.org/abs/2006.03654), [GitHub](https://github.com/microsoft/DeBERTa) |
+| 2020 | GIZA++ | GIZA++: Training of Statistical Translation Models | [GitHub](https://github.com/moses-smt/giza-pp) |
+| 2020 | xlm-roberta-base | Unsupervised Cross-lingual Representation Learning at Scale | [arXiv](https://arxiv.org/abs/1911.02116), [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/xlmr) |
+| 2020 | SimAlign | SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings | [arXiv](https://arxiv.org/abs/2004.08728), [GitHub](https://github.com/cisnlp/simalign) |
+| 2020 | XLM-R | Unsupervised Cross-lingual Representation Learning at Scale | [arXiv](https://arxiv.org/abs/1911.02116), [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/xlmr) |
+| 2020 | jiant | jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models | [arXiv](https://arxiv.org/abs/2003.02249), [GitHub](https://github.com/nyu-mll/jiant) |
+| 2019 | Transformer | Attention Is All You Need | [arXiv](https://arxiv.org/abs/1706.03762), [GitHub](https://github.com/tensorflow/tensor2tensor) |
+| 2019 | Longformer | Longformer: The Long-Document Transformer | [arXiv](https://arxiv.org/abs/2004.05150), [GitHub](https://github.com/allenai/longformer) |
+| 2019 | XLNet | XLNet: Generalized Autoregressive Pretraining for Language Understanding | [arXiv](https://arxiv.org/abs/1906.08237), [GitHub](https://github.com/zihangdai/xlnet) |
+| 2019 | DeBERTa | DeBERTa: Decoding-enhanced BERT with Disentangled Attention | [arXiv](https://arxiv.org/abs/2006.03654), [GitHub](https://github.com/microsoft/DeBERTa) |
 
 
 
