@@ -1,4 +1,4 @@
-<h1 align="center">✨ PEFT: <em>State-of-the-Art Parameter-Efficient Fine-Tuning Techniques</em> ✨</h1>
+<h1 align="center">✨ Awesome PEFT</em> ✨</h1>
 
 <p align="center">
 
