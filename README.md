@@ -1,12 +1,16 @@
 # ✨ PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques
 
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)
-![Contributions](https://img.shields.io/badge/Contributions-welcome-blue)
-
 <p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+
+  <img src="https://img.shields.io/github/stars/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques?color=orange&style=for-the-badge" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques?color=blueviolet&style=for-the-badge" alt="GitHub forks">
+  <img src="https://img.shields.io/github/last-commit/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques?color=green&style=for-the-badge" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/issues/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques?color=crimson&style=for-the-badge" alt="GitHub issues">
+  
+  <a href="https://GitHub.com/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge" alt="Maintenance">
+  </a>
+
 </p>
 
 
