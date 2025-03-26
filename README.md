@@ -644,10 +644,6 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | TriviaQA       | Question Answering                                 | 650K                 |              |
 | SQuAD          | Question Answering                                 | 100K                 |              |
 | BoolQ          | Boolean Question Answering                         | 15,942               |              |
-
-
-| Dataset         | Task Type                                         | Dataset Size         | Dataset Link |
-|-----------------|---------------------------------------------------|-----------------------|--------------|
 | YELP-Polarity   | Sentiment Analysis (Binary Classification)       | 560,000              |              |
 | CNN/DailyMail   | Abstractive Summarization                         | 313k                 |              |
 | Yelp            | Sentiment Classification                         | 700,000              |              |
@@ -666,10 +662,6 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | OBQA            | Commonsense Question Answering                    | 5,957 questions       |              |
 | ARC-Easy        | Multiple-choice Question Answering                | 5,197                |              |
 | ARC-Challenge   | Multiple-choice Question Answering                | 2,590                |              |
-
-
-| Dataset               | Task Type                                             | Dataset Size             | Dataset Link |
-|------------------------|------------------------------------------------------|---------------------------|--------------|
 | MultiRC                | Multi-Sentence Reading Comprehension                | 10,000 questions          |              |
 | XSum                   | Abstractive Summarization                           | 226,711                   |              |
 | CoLA                   | Sentence Acceptability                              | 10,657 sentences          |              |
@@ -689,9 +681,6 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | WoW                    | Knowledge-driven Dialogue Generation                | N/A                       |              |
 | CosmosQA               | Commonsense Reading Comprehension                   | 35.6K questions           |              |
 | HellaSwag              | Commonsense Reasoning / Sentence Completion         | N/A                       |              |
-
-| Dataset                      | Task Type                                     | Dataset Size                      | Dataset Link |
-|------------------------------|-----------------------------------------------|-----------------------------------|--------------|
 | MMLU                         | Multiple-Choice QA                            | 15,000+ questions across 57 subjects |              |
 | The Pile                     | Language Modeling                             | 825GB                             |              |
 | WikiTableText                | Data-to-Text / QA                             | 100M+ tokens                      |              |
@@ -705,10 +694,6 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | TruthfulQA                   | Question Answering, Text Generation           | 817                               |              |
 | Therapeutics Data Commons benchmark | AI-driven drug discovery            | 66 AI-ready datasets              |              |
 | SVAMP                        | Math Word Problem Solving                     | 1,000 problems                    |              |
-
-
-| Dataset        | Task Type                                          | Dataset Size              | Dataset Link |
-|----------------|----------------------------------------------------|----------------------------|--------------|
 | CUB-200-2011   | Fine-grained Image Classification                  | 11,788 images              |              |
 | EL EVATER      | Multimodal Entity Linking, Visual Attribute Recognition | 10,000 instances (text-image pairs) |     |
 | TB-1k          | Medical Image Classification                       | 1,000K                     |              |
@@ -718,11 +703,6 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | (De-En)        | --                                                 | N/A                        |              |
 | Fr–De          | --                                                 | N/A                        |              |
 | Fr–Es          | --                                                 | N/A                        |              |
-
-
-
-| Dataset                  | Task Type                                          | Dataset Size                        | Dataset Link |
-|--------------------------|----------------------------------------------------|-------------------------------------|--------------|
 | Flan v2                  | Instruction tuning for NLP tasks                   | 1,800+                              |              |
 | BBH                      | Question-Answering                                 | 6,511                               |              |
 | Pix2Struc                | Visual Language Understanding                      | N/A                                 |              |
@@ -746,10 +726,6 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | DocVQA                   | Visual Question Answering (VQA) on documents       | 50,000 questions, 12,767 images     |              |
 | IWSLT                    | --                                                 | N/A                                 |              |
 | FGVC                     | Fine-grained object classification                 | 10,200 images of aircraft           |              |
-
-
-| Dataset                         | Task Type                                                            | Dataset Size                            | Dataset Link |
-|----------------------------------|-----------------------------------------------------------------------|-----------------------------------------|--------------|
 | OPUS-100                         | Multilingual Machine Translation (text-to-text)                      | 55 million parallel sentences           |              |
 | MS COCO dataset                  | Object Detection, Instance Segmentation, Panoptic Segmentation, Image Captioning, Keypoint Detection | 118K images / 5K images / 41K images |              |
 | COCO Stuff                       | Semantic Segmentation, Panoptic Segmentation, Scene Understanding    | 164,000 images                          |              |
@@ -758,10 +734,6 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | PASCAL Context                   | Object Detection/Segmentation, Semantic Segmentation, Scene Parsing  | 10,103 images with 65,937 labeled objects; Classes: 459 |              |
 | Pascal Context-59               | Semantic Segmentation, Scene Parsing                                 | 10,103 images with dense labels for 59 classes |       |
 | Pascal Context-459              | --                                                                    | N/A                                     |              |
-
-
-| Dataset             | Task Type                                            | Dataset Size                          | Dataset Link |
-|----------------------|-----------------------------------------------------|---------------------------------------|--------------|
 | ADE20K 150           | Semantic Segmentation, Scene Parsing, Instance Segmentation (optional) | 25,000 images                    |              |
 | ADE20K-847           | Semantic Segmentation, Scene Parsing, Instance Segmentation (optional) | 25,000 images                    |              |
 | CIFAR-10             | Image Classification                                | 60,000 images                         |              |
@@ -775,10 +747,6 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | RESISC45             | Remote Sensing Scene Classification                 | 31,500 RGB images                     |              |
 | CLEVR                | Visual Question Answering (VQA), Compositional Reasoning | 100,000 images / 1 million questions |              |
 | DepthTrack           | RGB-D Single Object Tracking                        | 150 sequences (100,000+ frames)       |              |
-
-
-| Dataset           | Task Type                                         | Dataset Size                      | Dataset Link |
-|--------------------|--------------------------------------------------|-----------------------------------|--------------|
 | IconQA             | Visual Question Answering                        | N/A                               |              |
 | ImageNet-R         | Image Classification                             | 30,000 images                     |              |
 | Pix2Struc          | Visual Language Understanding                    | N/A                               |              |
@@ -797,10 +765,6 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | SBU                | Image Captioning                                 | 1 million images                  |              |
 | OxfordPets         | Fine-Grained Classification & Semantic Segmentation | 7,390 images                   |              |
 | DUT                | Salient Object Detection                         | 5,168 images                      |              |
-
-
-| Dataset              | Task Type                                              | Dataset Size                          | Dataset Link |
-|-----------------------|-------------------------------------------------------|---------------------------------------|--------------|
 | DTD                   | Texture Classification                                | 5,640 images                          |              |
 | Food101               | Food Image Classification                             | 101,000 images                        |              |
 | Kinetics-400          | Action Recognition, Video Classification              | 650k video clips                      |              |
