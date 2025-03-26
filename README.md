@@ -557,55 +557,42 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | 29 Jan 2023 | Text+Chem T5 | Unifying Molecular and Textual Representations via Multi-task Language Modelling | [arXiv](https://arxiv.org/abs/2301.12586) |
 | 27 June 2023 | BLOOM-7B,1B | BLOOM: A 176B-Parameter Open-Access Multilingual Language Model | [arXiv](https://arxiv.org/abs/2211.05100) [GitHub](https://github.com/bigscience-workshop/multilingual-modeling) |
 | 29 Nov 2023 | Falcon |The Falcon Series of Open Language Models | [arXiv](https://arxiv.org/pdf/2311.16867)|
-| 2024 | ChatGPT-4 | GPT-4 Technical Report | [arXiv](https://arxiv.org/abs/2303.08774) |
-| 2024 | GPT-J (6B) | GPT-J: 6B Parameter Open Source Transformer Model | [GitHub](https://github.com/kingoflolz/mesh-transformer-jax) |
-| 2024 | GPT-Neo | GPT-Neo: Implementation of Model Parallel GPT2-like Models | [GitHub](https://github.com/EleutherAI/gpt-neo) |
-| 2024 | GPT2 (GPT2, GPT2-M, GPT2-L) | Language Models are Unsupervised Multitask Learners | [Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [GitHub](https://github.com/openai/gpt-2) |
-| 2024 | GPT-3.5 | GPT-3.5 Technical Report | [Blog](https://openai.com/blog/chatgpt) |
-| 2024 | OPT (OPT, OPT-13B, OPT-6.7B, OPT-1.3B) | OPT: Open Pre-trained Transformer Language Models | [arXiv](https://arxiv.org/abs/2205.01068) [GitHub](https://github.com/facebookresearch/metaseq) |
-| 2024 | RoBERTa (RoBERTa-Large, RoBERTa-Base) | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [arXiv](https://arxiv.org/abs/1907.11692) [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/roberta) |
-| 2024 | T5 (T5-BASE, T5-SMALL, T5-Large) | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | [arXiv](https://arxiv.org/abs/1910.10683) [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
-| 2024 | Flan-T5 (Flan-T5-base, Flan-T5-xl) | Scaling Instruction-Finetuned Language Models | [arXiv](https://arxiv.org/abs/2210.11416) [GitHub](https://github.com/google-research/t5x) |
-| 2024 | BART-Large | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | [arXiv](https://arxiv.org/abs/1910.13461) [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/bart) |
-| 2024 | ViT | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | [arXiv](https://arxiv.org/abs/2010.11929) [GitHub](https://github.com/google-research/vision_transformer) |
-| 2024 | ALBERT | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations | [arXiv](https://arxiv.org/abs/1909.11942) [GitHub](https://github.com/google-research/albert) |
-| 2024 | DistilBERT | DistilBERT, a Distilled Version of BERT: Smaller, Faster, Cheaper and Lighter | [arXiv](https://arxiv.org/abs/1910.01108) [GitHub](https://github.com/huggingface/transformers/tree/main/examples/research_projects/distillation) |
-| 2023 | GPT-3 | Language Models are Few-Shot Learners | [arXiv](https://arxiv.org/abs/2005.14165) |
-| 2023 | ChatGPT | Introducing ChatGPT | [Blog](https://openai.com/blog/chatgpt) |
-| 2023 | TwinBERT | TwinBERT: Distilling Knowledge to Twin-Structured BERT Models for Efficient Retrieval | [arXiv](https://arxiv.org/abs/2002.06275) |
-| 2023 | ColBERT | ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT | [arXiv](https://arxiv.org/abs/2004.12832) [GitHub](https://github.com/stanford-futuredata/ColBERT) |
-| 2023 | mBART | Multilingual Denoising Pre-training for Neural Machine Translation | [arXiv](https://arxiv.org/abs/2001.08210) [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/mbart) |
-| 2023 | GPT-4 | GPT-4 Technical Report | [arXiv](https://arxiv.org/abs/2303.08774) |
-| 2023 | ELECTRA | ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators | [arXiv](https://arxiv.org/abs/2003.10555) [GitHub](https://github.com/google-research/electra) |
-| 2023 | PaLM | PaLM: Scaling Language Modeling with Pathways | [arXiv](https://arxiv.org/abs/2204.02311) |
-| 2022 | BLEU | BLEU: A Method for Automatic Evaluation of Machine Translation | [Paper](https://aclanthology.org/P02-1040.pdf) |
-| 2022 | EFL | Entailment as Few-Shot Learner | [arXiv](https://arxiv.org/abs/2104.14690) |
-| 2022 | DeBERTaLARGE | DeBERTa: Decoding-enhanced BERT with Disentangled Attention | [arXiv](https://arxiv.org/abs/2006.03654) [GitHub](https://github.com/microsoft/DeBERTa) |
-| 2022 | BlenderBot | BlenderBot 3: A Deployed Conversational Agent That Continually Learns to Responsibly Engage | [arXiv](https://arxiv.org/abs/2208.03188) |
-| 2020 | GIZA++ | GIZA++: Training of Statistical Translation Models | [GitHub](https://github.com/moses-smt/giza-pp) |
-| 2020 | XLM-R (xlm-roberta-base) | Unsupervised Cross-lingual Representation Learning at Scale | [arXiv](https://arxiv.org/abs/1911.02116) [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/xlmr) |
-| 2020 | SimAlign | SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings | [arXiv](https://arxiv.org/abs/2004.08728) [GitHub](https://github.com/cisnlp/simalign) |
-| 2020 | jiant | jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models | [arXiv](https://arxiv.org/abs/2003.02249) [GitHub](https://github.com/nyu-mll/jiant) |
-| 2020 | MobileBERT | MobileBERT: A Compact Task-Agnostic BERT for Resource-Limited Devices | [arXiv](https://arxiv.org/abs/2004.02984) |
-| 2019 | Transformer | Attention Is All You Need | [arXiv](https://arxiv.org/abs/1706.03762) [GitHub](https://github.com/tensorflow/tensor2tensor) |
-| 2019 | Longformer | Longformer: The Long-Document Transformer | [arXiv](https://arxiv.org/abs/2004.05150) [GitHub](https://github.com/allenai/longformer) |
-| 2019 | XLNet | XLNet: Generalized Autoregressive Pretraining for Language Understanding | [arXiv](https://arxiv.org/abs/1906.08237) [GitHub](https://github.com/zihangdai/xlnet) |
-| 2019 | DeBERTa | DeBERTa: Decoding-enhanced BERT with Disentangled Attention | [arXiv](https://arxiv.org/abs/2006.03654) [GitHub](https://github.com/microsoft/DeBERTa) |
-| 2024 | Airavata-7b | Airavata: Sanskrit-English Neural Machine Translation | [arXiv](https://arxiv.org/abs/2406.17377) |
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/25640501/4f1981bc-0269-49bb-87d9-62f1c32552ff/paste.txt
-[2] https://arxiv.org/abs/2003.02249
-[3] https://github.co
-
----
-Answer from Perplexity: pplx.ai/share
+| 15 Mar 2023 | GPT-4 | GPT-4 Technical Report | [arXiv](https://arxiv.org/abs/2303.08774) |
+| 2024 | GPT-J (6B) | GPT-J: 6B Parameter Open Source Transformer Model | [GitHub](https://github.com/NielsRogge/Transformers-Tutorials/tree/master/GPT-J-6B) |
+| Aug 2021 | GPT-Neo | GPT-Neo: Implementation of Model Parallel GPT2-like Models | [GitHub](https://github.com/EleutherAI/gpt-neo) |
+| Feb 2019 | GPT2 (GPT2, GPT2-M, GPT2-L) | Language Models are Unsupervised Multitask Learners | [Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [GitHub](https://github.com/openai/gpt-2) |
+| Nov 30 2022 | GPT-3.5 | GPT-3.5 Technical Report | [Blog](https://openai.com/blog/chatgpt) |
+| 2 May 2022 | OPT (OPT, OPT-13B, OPT-6.7B, OPT-1.3B) | OPT: Open Pre-trained Transformer Language Models | [arXiv](https://arxiv.org/abs/2205.01068) [GitHub](https://github.com/facebookresearch/metaseq) |
+| 26 July 2019 | RoBERTa (RoBERTa-Large, RoBERTa-Base) | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [arXiv](https://arxiv.org/abs/1907.11692) [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/roberta) |
+| 23 Oct 2019 | T5 (T5-BASE, T5-SMALL, T5-Large) | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | [arXiv](https://arxiv.org/abs/1910.10683) [GitHub](https://github.com/google-research/text-to-text-transfer-transformer) |
+| 20 Oct 2022 | Flan-T5 (Flan-T5-base, Flan-T5-xl) | Scaling Instruction-Finetuned Language Models | [arXiv](https://arxiv.org/abs/2210.11416) [GitHub](https://github.com/google-research/t5x) |
+| 29 Oct 2019 | BART-Large | BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension | [arXiv](https://arxiv.org/abs/1910.13461) [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/bart) |
+| 22 Oct 2020 | ViT | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | [arXiv](https://arxiv.org/abs/2010.11929) [GitHub](https://github.com/google-research/vision_transformer) |
+| 26 Sep 2019 | ALBERT | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations | [arXiv](https://arxiv.org/abs/1909.11942) [GitHub](https://github.com/google-research/albert) |
+| 2 Oct 2019 | DistilBERT | DistilBERT, a Distilled Version of BERT: Smaller, Faster, Cheaper and Lighter | [arXiv](https://arxiv.org/abs/1910.01108) [GitHub](https://github.com/huggingface/transformers/tree/main/src/transformers/models/distilbert) |
+| 28 May 2020 | GPT-3 | Language Models are Few-Shot Learners | [arXiv](https://arxiv.org/abs/2005.14165) |
+| 14 Feb 2020 | TwinBERT | TwinBERT: Distilling Knowledge to Twin-Structured BERT Models for Efficient Retrieval | [arXiv](https://arxiv.org/abs/2002.06275) |
+| 27 April 2020 | ColBERT | ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT | [arXiv](https://arxiv.org/abs/2004.12832) [GitHub](https://github.com/stanford-futuredata/ColBERT) |
+| 8 Nov 2019 | mBART | How Language-Neutral is Multilingual BERT? | [arXiv](https://arxiv.org/abs/1911.03310) [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/mbart) |
+| 23 Mar 2020 | ELECTRA | ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators | [arXiv](https://arxiv.org/abs/2003.10555) [GitHub](https://github.com/google-research/electra) |
+|5 Oct 2022 | PaLM | PaLM: Scaling Language Modeling with Pathways | [arXiv](https://arxiv.org/abs/2204.02311) |
+| July 2002 | BLEU | BLEU: A Method for Automatic Evaluation of Machine Translation | [Paper](https://aclanthology.org/P02-1040.pdf) |
+| 29 Apr 2021 | EFL | Entailment as Few-Shot Learner | [arXiv](https://arxiv.org/abs/2104.14690) |
+| 5 June 2020 | DeBERTaLARGE,DeBERTa | DeBERTa: Decoding-enhanced BERT with Disentangled Attention | [arXiv](https://arxiv.org/abs/2006.03654) [GitHub](https://github.com/microsoft/DeBERTa) |
+| 5 Aug 2022 | BlenderBot | BlenderBot 3: A Deployed Conversational Agent That Continually Learns to Responsibly Engage | [arXiv](https://arxiv.org/abs/2208.03188) |
+| Sep 2022 | GIZA++ | Embedding-Enhanced GIZA++: Improving Word Alignment Using Embeddings | [Paper](https://aclanthology.org/2022.amta-research.20.pdf) |
+| 5 Nov 2019 | XLM-R (xlm-roberta-base) | Unsupervised Cross-lingual Representation Learning at Scale | [arXiv](https://arxiv.org/abs/1911.02116) [GitHub](https://github.com/pytorch/fairseq/tree/main/examples/xlmr) |
+| 18 Apr 2020 | SimAlign | SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings | [arXiv](https://arxiv.org/abs/2004.08728) [GitHub](https://github.com/cisnlp/simalign) |
+| 4 Mar 2020 | jiant | jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models | [arXiv](https://arxiv.org/abs/2003.02249) [GitHub](https://github.com/nyu-mll/jiant) |
+| 6 Apr 2020 | MobileBERT | MobileBERT: A Compact Task-Agnostic BERT for Resource-Limited Devices | [arXiv](https://arxiv.org/abs/2004.02984) |
+| 12 June 2017 | Transformer | Attention Is All You Need | [arXiv](https://arxiv.org/abs/1706.03762) [GitHub](https://github.com/tensorflow/tensor2tensor) |
+| 10 Apr 2020 | Longformer | Longformer: The Long-Document Transformer | [arXiv](https://arxiv.org/abs/2004.05150) [GitHub](https://github.com/allenai/longformer) |
+| 19 June 2019 | XLNet | XLNet: Generalized Autoregressive Pretraining for Language Understanding | [arXiv](https://arxiv.org/abs/1906.08237) [GitHub](https://github.com/zihangdai/xlnet) |
+| 26 Feb 2024 | Airavata-7b | Airavata: Introducing Hindi Instruction-tuned LLM | [arXiv](https://arxiv.org/html/2401.15006v2) |
 
 
 
-## References
 
-Please check the paper links for detailed information about each model and method.
 
 
 
