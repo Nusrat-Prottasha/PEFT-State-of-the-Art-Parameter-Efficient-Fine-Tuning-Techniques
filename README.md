@@ -1,15 +1,4 @@
-# ✨ PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques
-
 <h1 align="center">✨ PEFT: <em>State-of-the-Art Parameter-Efficient Fine-Tuning Techniques</em> ✨</h1>
-
-# 📦 PEFT-SOTA: Parameter-Efficient Fine-Tuning Techniques
-<div style="height: 6px; background: linear-gradient(90deg, #f39c12, #e74c3c, #9b59b6, #3498db, #2ecc71); border-radius: 6px; border: none;"></div>
-
-<h1 align="center">📘 PEFT-SOTA: State-of-the-Art Parameter-Efficient Fine-Tuning</h1>
-
-
-
-
 
 <p align="center">
 
