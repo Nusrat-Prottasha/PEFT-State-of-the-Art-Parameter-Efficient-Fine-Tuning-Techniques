@@ -646,5 +646,183 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 | BoolQ          | Boolean Question Answering                         | 15,942               |              |
 
 
+| Dataset         | Task Type                                         | Dataset Size         | Dataset Link |
+|-----------------|---------------------------------------------------|-----------------------|--------------|
+| YELP-Polarity   | Sentiment Analysis (Binary Classification)       | 560,000              |              |
+| CNN/DailyMail   | Abstractive Summarization                         | 313k                 |              |
+| Yelp            | Sentiment Classification                         | 700,000              |              |
+| WMT 16 en-ro    | Machine Translation (English to Romanian and vice versa) | 2 million sentences  |              |
+| MAWPS           | Math Word Problem Solving                         | 2,373 problems        |              |
+| MIMIC-III MP    | Medical Predictive Modeling                       | 60,000 ICU stays      |              |
+| WMT 16 en-ro    | Machine Translation (English to Romanian and vice versa) | 2 million sentences  |              |
+| E2E             | Data to Text Generation                           | N/A                  |              |
+| MNLI            | Natural Language Inference                        | 433k                 |              |
+| WebNLG          | Natural Language Generation                       | 13,211 triples        |              |
+| STS-B           | Semantic Textual Similarity                       | 8,628 pairs           |              |
+| HS              | Hate Speech Detection                             | 25,000 tweets         |              |
+| WikiSQL         | Text-to-SQL Generation                            | 80,654                |              |
+| ARC             | Multiple Choice Question Answering               | 7,787                |              |
+| GLUE            | Natural Language Understanding                    | N/A                  |              |
+| OBQA            | Commonsense Question Answering                    | 5,957 questions       |              |
+| ARC-Easy        | Multiple-choice Question Answering                | 5,197                |              |
+| ARC-Challenge   | Multiple-choice Question Answering                | 2,590                |              |
 
-  
+
+| Dataset               | Task Type                                             | Dataset Size             | Dataset Link |
+|------------------------|------------------------------------------------------|---------------------------|--------------|
+| MultiRC                | Multi-Sentence Reading Comprehension                | 10,000 questions          |              |
+| XSum                   | Abstractive Summarization                           | 226,711                   |              |
+| CoLA                   | Sentence Acceptability                              | 10,657 sentences          |              |
+| SciTail dataset        | Textual Entailment                                  | 27,026 examples           |              |
+| SQuAD 2.0              | Question Answering                                  | 150,000+ question-answer pairs |         |
+| PIQA                   | Multiple Choice Question Answering                  | 19K                       |              |
+| Winogrande             | Commonsense Reasoning                               | 44K                       |              |
+| OSCAR                  | Pre-training Language Models                        | 50K                       |              |
+| SuperGLUE              | Natural Language Understanding (NLU)                | N/A                       |              |
+| codeSearchNet          | --                                                  | 2 million                 |              |
+| AmazonQA/ProductQA     | Question Answering (QA)                             | 923K questions, 3.6M answers |           |
+| commonsenseQA (CSQA)   | Question Answering                                  | 12,247 questions          |              |
+| SAMSum                 | Dialogue Summarization                              | 16,369                    |              |
+| Word-in-Context (WiC)  | Evaluate Context-Sensitive Meaning                  | 7,466                     |              |
+| Hyperpartisan          | Binary Classification (Hyperpartisan vs. Non-Hyperpartisan) | 754,000 articles     |              |
+| PAWS                   | Paraphrase Identification                           | 108,463                   |              |
+| WoW                    | Knowledge-driven Dialogue Generation                | N/A                       |              |
+| CosmosQA               | Commonsense Reading Comprehension                   | 35.6K questions           |              |
+| HellaSwag              | Commonsense Reasoning / Sentence Completion         | N/A                       |              |
+
+| Dataset                      | Task Type                                     | Dataset Size                      | Dataset Link |
+|------------------------------|-----------------------------------------------|-----------------------------------|--------------|
+| MMLU                         | Multiple-Choice QA                            | 15,000+ questions across 57 subjects |              |
+| The Pile                     | Language Modeling                             | 825GB                             |              |
+| WikiTableText                | Data-to-Text / QA                             | 100M+ tokens                      |              |
+| DART                         | Data-to-Text                                  | 82,191 examples                   |              |
+| C4                           | Language Modeling / Pre-training              | 806.87 GiB                        |              |
+| LibriLight                   | Self-supervised Speech                        | 60,000 hours                      |              |
+| ANLI                         | Natural Language Inference                    | 162,865 examples                  |              |
+| COMMONGEN                    | Text Generation                               | 79K descriptions over 35K concept sets |           |
+| GSM8K (Grade School Math 8K) | Mathematical Problem Solving                  | 8,500                             |              |
+| MATH                         | Mathematical Problem Solving                  | 12,500                            |              |
+| TruthfulQA                   | Question Answering, Text Generation           | 817                               |              |
+| Therapeutics Data Commons benchmark | AI-driven drug discovery            | 66 AI-ready datasets              |              |
+| SVAMP                        | Math Word Problem Solving                     | 1,000 problems                    |              |
+
+
+| Dataset        | Task Type                                          | Dataset Size              | Dataset Link |
+|----------------|----------------------------------------------------|----------------------------|--------------|
+| CUB-200-2011   | Fine-grained Image Classification                  | 11,788 images              |              |
+| EL EVATER      | Multimodal Entity Linking, Visual Attribute Recognition | 10,000 instances (text-image pairs) |     |
+| TB-1k          | Medical Image Classification                       | 1,000K                     |              |
+| ro-en          | --                                                 | 614,318 sentences          |              |
+| de-en          | --                                                 | 4,554,053 sentences        |              |
+| Ha–En          | --                                                 | 50,000 sentences           |              |
+| (De-En)        | --                                                 | N/A                        |              |
+| Fr–De          | --                                                 | N/A                        |              |
+| Fr–Es          | --                                                 | N/A                        |              |
+
+
+
+| Dataset                  | Task Type                                          | Dataset Size                        | Dataset Link |
+|--------------------------|----------------------------------------------------|-------------------------------------|--------------|
+| Flan v2                  | Instruction tuning for NLP tasks                   | 1,800+                              |              |
+| BBH                      | Question-Answering                                 | 6,511                               |              |
+| Pix2Struc                | Visual Language Understanding                      | N/A                                 |              |
+| M2D2                     | Text                                               | 8.5B tokens across 145 domains      |              |
+| Alpaca                   | Instruction Following                              | 52K                                 |              |
+| GPT-4 Alpaca             | Instruction-following fine-tuning                  | 52K                                 |              |
+| Dolly                    | Instruction-Following NLP                          | 15K prompts                         |              |
+| Orca                     | Instruction-Following, Reasoning                   | 1.6 million                         |              |
+| GPT-4-Turbo              | --                                                 | 128k                                |              |
+| AI4Bharat Naamapadam     | NER on Indian languages                            | 400k sentences                      |              |
+| AmericasNLI              | Natural Language Inference                         | N/A                                 |              |
+| SIQA                     | Text                                               | 33,410                              |              |
+| TREC                     | Question Classification                            | 4,500                               |              |
+| ScienceQ                 | Science Question Answering                         | N/A                                 |              |
+| Wikitext2                | Language Modeling                                  | 2M                                  |              |
+| Penn Treebank            | Language Modeling                                  | 1M                                  |              |
+| VQA v2.0                 | Visual Question Answering                          | 265,016                             |              |
+| VisDA-C                  | Domain Adaptation for Image Classification         | 280k images                         |              |
+| ImageNet-Sketch          | Image Classification                               | 50,889 images                       |              |
+| ImageNet-A               | Image Classification                               | 7,500 images                        |              |
+| DocVQA                   | Visual Question Answering (VQA) on documents       | 50,000 questions, 12,767 images     |              |
+| IWSLT                    | --                                                 | N/A                                 |              |
+| FGVC                     | Fine-grained object classification                 | 10,200 images of aircraft           |              |
+
+
+| Dataset                         | Task Type                                                            | Dataset Size                            | Dataset Link |
+|----------------------------------|-----------------------------------------------------------------------|-----------------------------------------|--------------|
+| OPUS-100                         | Multilingual Machine Translation (text-to-text)                      | 55 million parallel sentences           |              |
+| MS COCO dataset                  | Object Detection, Instance Segmentation, Panoptic Segmentation, Image Captioning, Keypoint Detection | 118K images / 5K images / 41K images |              |
+| COCO Stuff                       | Semantic Segmentation, Panoptic Segmentation, Scene Understanding    | 164,000 images                          |              |
+| PASCAL VOC                       | Object Detection, Semantic Segmentation, Image Classification, Action Recognition, Person Layout | VOC 2012: 11,530 images; Object instances: 27,450; Segmentation: 2,913 images with pixel masks |              |
+| MICCAI 2015 Multi-Atlas Abdomen Labeling Challenge | Multi-organ Segmentation (13 abdominal organs)                     | 30 CT scans / 20 CT scans               |              |
+| PASCAL Context                   | Object Detection/Segmentation, Semantic Segmentation, Scene Parsing  | 10,103 images with 65,937 labeled objects; Classes: 459 |              |
+| Pascal Context-59               | Semantic Segmentation, Scene Parsing                                 | 10,103 images with dense labels for 59 classes |       |
+| Pascal Context-459              | --                                                                    | N/A                                     |              |
+
+
+| Dataset             | Task Type                                            | Dataset Size                          | Dataset Link |
+|----------------------|-----------------------------------------------------|---------------------------------------|--------------|
+| ADE20K 150           | Semantic Segmentation, Scene Parsing, Instance Segmentation (optional) | 25,000 images                    |              |
+| ADE20K-847           | Semantic Segmentation, Scene Parsing, Instance Segmentation (optional) | 25,000 images                    |              |
+| CIFAR-10             | Image Classification                                | 60,000 images                         |              |
+| CIFAR-100            | Image Classification                                | 60,000 images                         |              |
+| CIFAR-10-LT (Long Tail) | Image Classification                            | 60,000 images                         |              |
+| ImageNet1K           | Image Classification and Localization               | 1,431,167 images                      |              |
+| ImageNet100          | Image Classification                                | 131,689 images                        |              |
+| ORBIT                | Few-shot learning for teachable object recognition  | 2,687 videos                          |              |
+| ScanObjectNN         | 3D Object Classification                            | 2,902 object instances                |              |
+| ModelNet40           | 3D Shape Classification                             | 12,311 3D objects / 2,468 models      |              |
+| RESISC45             | Remote Sensing Scene Classification                 | 31,500 RGB images                     |              |
+| CLEVR                | Visual Question Answering (VQA), Compositional Reasoning | 100,000 images / 1 million questions |              |
+| DepthTrack           | RGB-D Single Object Tracking                        | 150 sequences (100,000+ frames)       |              |
+
+
+| Dataset           | Task Type                                         | Dataset Size                      | Dataset Link |
+|--------------------|--------------------------------------------------|-----------------------------------|--------------|
+| IconQA             | Visual Question Answering                        | N/A                               |              |
+| ImageNet-R         | Image Classification                             | 30,000 images                     |              |
+| Pix2Struc          | Visual Language Understanding                    | N/A                               |              |
+| M2D2 (2022)        | Multi-task NLP (NER, RE, QA, etc.)               | 8.5B tokens across 145 domains    |              |
+| Vizwiz             | Visual Question Answering                        | N/A                               |              |
+| Flickr30k          | Image Captioning                                 | 31,783                            |              |
+| OKVQA              | Visual Question Answering                        | 14,055                            |              |
+| OCR-VQA            | Optical Character Recognition                    | N/A                               |              |
+| LibriSpeech        | Automatic Speech Recognition                     | 1,000 hours                       |              |
+| M2D2 (2022 again)  | Multi-task NLP (NER, RE, QA, etc.)               | 8.5B tokens across 145 domains    |              |
+| ImageNet-Sketch    | Image Classification                             | 50,889 images                     |              |
+| ImageNet-A         | Image Classification                             | 7,500 images                      |              |
+| ImageNet-C         | Image Classification under Corruption            | 3,750,000 corrupted images        |              |
+| VisDA-C            | Domain Adaptation for Image Classification       | 280K images                       |              |
+| DomainNet-126      | Domain Adaptation for Image Classification       | 586,575 images                    |              |
+| SBU                | Image Captioning                                 | 1 million images                  |              |
+| OxfordPets         | Fine-Grained Classification & Semantic Segmentation | 7,390 images                   |              |
+| DUT                | Salient Object Detection                         | 5,168 images                      |              |
+
+
+| Dataset              | Task Type                                              | Dataset Size                          | Dataset Link |
+|-----------------------|-------------------------------------------------------|---------------------------------------|--------------|
+| DTD                   | Texture Classification                                | 5,640 images                          |              |
+| Food101               | Food Image Classification                             | 101,000 images                        |              |
+| Kinetics-400          | Action Recognition, Video Classification              | 650k video clips                      |              |
+| Something-Something-v2| Temporal Action Recognition                           | 220,847 videos                        |              |
+| EuroSAT               | Land Use/Land Cover Classification                    | 27,000 images                         |              |
+| iNaturalist 2018      | Fine-Grained Species Classification                   | 611,753 images                        |              |
+| IMD20                 | --                                                    | 35,000 images                         |              |
+| COD10K                | Camouflaged Object Detection                          | 10,000 images                         |              |
+| CAMO                  | Camouflaged Object Segmentation                       | 1,250 images                          |              |
+| ISTD                  | Shadow Detection & Removal                            | N/A                                   |              |
+| UCF101                | Action Recognition, Video Classification              | 13,320 videos (7.2 GB)                |              |
+| SUN397                | Scene Classification                                  | 108,753 images                        |              |
+| ABIDE                 | Neuroimaging Classification (ASD vs. Controls)        | 1,112 subjects                        |              |
+| Places-LT             | Long-Tailed Scene Classification                      | 62,500 images                         |              |
+| CASIA                 | --                                                    | N/A                                   |              |
+| IMD20                 | --                                                    | N/A                                   |              |
+| CUHK                 | --                                                    | N/A                                   |              |
+| CHAMELEON (Confused)  | --                                                    | N/A                                   |              |
+| Kinetics-700          | --                                                    | N/A                                   |              |
+| DF-20M mini           | --                                                    | N/A                                   |              |
+| RIGA+ (Not found)     | --                                                    | 55                                    |              |
+| SCGM (Not found)      | --                                                    | N/A                                   |              |
+| VQA v2.0              | Visual Question Answering                             | 265,016                               |              |
+
+
