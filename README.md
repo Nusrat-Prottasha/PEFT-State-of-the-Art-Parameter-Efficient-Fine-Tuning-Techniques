@@ -5,7 +5,9 @@
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)
 ![Contributions](https://img.shields.io/badge/Contributions-welcome-blue)
 
-<div style="height: 6px; background: linear-gradient(90deg, #f1c40f, #e67e22, #c0392b, #8e44ad, #3498db, #f1c40f, #e67e22, #c0392b, #8e44ad, #3498db); border: none;"></div>
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+</p>
 
 
 
