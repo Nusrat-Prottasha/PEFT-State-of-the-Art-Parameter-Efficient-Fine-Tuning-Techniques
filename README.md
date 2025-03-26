@@ -617,33 +617,33 @@ This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) 
 
 
 
-## 🚀 PEFT Methods in NLP Tasks Datasets
+# 🚀 PEFT Methods in NLP Tasks Datasets
 
-| Dataset        | Task Type                                          | Dataset Size         |
-|----------------|----------------------------------------------------|-----------------------|
-| 20 Newsgroups  | Text Classification                                | 20K                  |
-| CoNLL03        | Named Entity Recognition                           | 2302 articles        |
-| CoNLL04        | Relation Extraction Tasks                          | 1,437 sentences      |
-| SST-2          | Sentiment Classification                           | 215,154              |
-| MRPC           | Paraphrase Detection                               | 5,800                |
-| ACE2005        | Information Extraction (IE)                        | 599 documents        |
-| WMT            | Machine Translation                                | N/A                  |
-| MPQA           | Opinion Mining                                     | 535 (articles)       |
-| Common Crawl   | Web Scraping, NLP Pretraining                      | 386 TiB              |
-| i2b2 2010 RE   | Relation Extraction in Clinical Text               | 877 documents        |
-| Semeval-2010   | Semantic Role Labeling, WSD, Relation Extraction   | 284                  |
-| COPA           | Commonsense Causal Reasoning                       | 1000 questions       |
-| IMDb           | Sentiment Classification                           | 50k reviews          |
-| SBU            | Image Captioning                                   | 1 million images     |
-| WebQ           | Question Answering                                 | 6,642                |
-| OntoNotes      | NER, Coreference Resolution                        | 2.9453M              |
-| DUT            | Salient Object Detection                           | 5,168 images         |
-| AG News        | Text Classification                                | 1M                   |
-| Yelp           | Sentiment Classification                           | 700,000              |
-| VQA v2.0       | Visual Question Answering                          | 265,016              |
-| TriviaQA       | Question Answering                                 | 650K                 |
-| SQuAD          | Question Answering                                 | 100K                 |
-| BoolQ          | Boolean Question Answering                         | 15,942               |
+| Dataset        | Task Type                                          | Dataset Size         | Dataset Link |
+|----------------|----------------------------------------------------|-----------------------|--------------|
+| 20 Newsgroups  | Text Classification                                | 20K                  |              |
+| CoNLL03        | Named Entity Recognition                           | 2302 articles        |              |
+| CoNLL04        | Relation Extraction Tasks                          | 1,437 sentences      |              |
+| SST-2          | Sentiment Classification                           | 215,154              |              |
+| MRPC           | Paraphrase Detection                               | 5,800                |              |
+| ACE2005        | Information Extraction (IE)                        | 599 documents        |              |
+| WMT            | Machine Translation                                | N/A                  |              |
+| MPQA           | Opinion Mining                                     | 535 (articles)       |              |
+| Common Crawl   | Web Scraping, NLP Pretraining                      | 386 TiB              |              |
+| i2b2 2010 RE   | Relation Extraction in Clinical Text               | 877 documents        |              |
+| Semeval-2010   | Semantic Role Labeling, WSD, Relation Extraction   | 284                  |              |
+| COPA           | Commonsense Causal Reasoning                       | 1000 questions       |              |
+| IMDb           | Sentiment Classification                           | 50k reviews          |              |
+| SBU            | Image Captioning                                   | 1 million images     |              |
+| WebQ           | Question Answering                                 | 6,642                |              |
+| OntoNotes      | NER, Coreference Resolution                        | 2.9453M              |              |
+| DUT            | Salient Object Detection                           | 5,168 images         |              |
+| AG News        | Text Classification                                | 1M                   |              |
+| Yelp           | Sentiment Classification                           | 700,000              |              |
+| VQA v2.0       | Visual Question Answering                          | 265,016              |              |
+| TriviaQA       | Question Answering                                 | 650K                 |              |
+| SQuAD          | Question Answering                                 | 100K                 |              |
+| BoolQ          | Boolean Question Answering                         | 15,942               |              |
 
 
 
