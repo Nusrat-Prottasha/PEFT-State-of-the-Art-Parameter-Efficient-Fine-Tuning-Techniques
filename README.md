@@ -2,6 +2,11 @@
 <h2 align="center"> PEFT State of the Art Parameter Efficient Fine Tuning Techniques</em> </h2>
 
 <p align="center">
+  <a href="https://github.com/hee9joon/Awesome-Diffusion-Models">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge">
+  </a>
+</p>
+<p align="center">
 
   <img src="https://img.shields.io/github/stars/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques?color=orange&style=for-the-badge" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques?color=blueviolet&style=for-the-badge" alt="GitHub forks">
