@@ -1,5 +1,10 @@
 # PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques
 
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)
+![Contributions](https://img.shields.io/badge/Contributions-welcome-blue)
+
 ## 🚀 Serial Adapters
 
 - Parameter-Efficient Transfer Learning for NLP [[Paper](https://arxiv.org/abs/1902.00751)]
