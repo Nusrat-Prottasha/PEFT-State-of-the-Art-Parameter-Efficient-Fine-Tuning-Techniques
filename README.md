@@ -1,11 +1,12 @@
-# PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques
+# 🚀 PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)
 ![Contributions](https://img.shields.io/badge/Contributions-welcome-blue)
 
-<hr style="height: 6px; background: linear-gradient(90deg, #f1c40f, #e67e22, #c0392b, #8e44ad, #3498db, #f1c40f, #e67e22, #c0392b, #8e44ad, #3498db); border: none;">
+<hr style="height: 6px; background: linear-gradient(90deg, #f1c40f, #e67e22, #c0392b, #8e44ad, #3498db); border: none;">
+
 
 
 ## 🚀 Serial Adapters
