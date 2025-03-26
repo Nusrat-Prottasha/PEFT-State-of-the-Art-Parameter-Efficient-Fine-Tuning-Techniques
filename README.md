@@ -1,7 +1,6 @@
 <h1 align="center">✨ Awesome PEFT</em> ✨</h1>
 <h2 align="center"> PEFT State of the Art Parameter Efficient Fine Tuning Techniques</em> </h2>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models)
 <p align="center">
 
   <img src="https://img.shields.io/github/stars/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques?color=orange&style=for-the-badge" alt="GitHub stars">
@@ -14,6 +13,7 @@
   </a>
 
 </p>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models)
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
