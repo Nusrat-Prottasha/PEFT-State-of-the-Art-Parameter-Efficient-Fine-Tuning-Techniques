@@ -613,42 +613,43 @@
 |  15 Oct 2024 | Bloomz| Investigating translation for Indic languages with BLOOMZ-3b through prompting and LoRA fine-tuning| [Paper](https://www.nature.com/articles/s41598-024-74617-9) |
 
 
-# PEFT Methods in Vision Tasks
+# PEFT Methods in Vision Models
 
+This repository contains a collection of Parameter-Efficient Fine-Tuning (PEFT) methods for Vision Models.
 
+## Models and Papers
 
 | Year | Model | Paper Title | Links |
 |------|-------|-------------|-------|
-|7 Mar 2025 | FaceT-B, PLFace | Efficient Fine-tuning Strategies for Enhancing Face Recognition Performance in Challenging Scenarios |[Paper](https://ieeexplore.ieee.org/abstract/document/10887682) |
-| 25 Mar 2021 | Swin Transformer (Swin-L, Swin-B) | Swin Transformer: Hierarchical Vision Transformer using Shifted Windows | [arXiv](https://arxiv.org/abs/2103.14030) [GitHub](https://github.com/microsoft/Swin-Transformer) |
-| 22 Oct 2020 | ViT (ViT-B/16, ViT-S) | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | [arXiv](https://arxiv.org/abs/2010.11929) [GitHub](https://github.com/google-research/vision_transformer) |
-| 31 May 2021 | Segformer | SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers | [arXiv](https://arxiv.org/abs/2105.15203) [GitHub](https://github.com/NVlabs/SegFormer) |
+| 7 Mar 2025 | FaceT-B, PLFace | Efficient Fine-tuning Strategies for Enhancing Face Recognition Performance in Challenging Scenarios |[Paper](https://ieeexplore.ieee.org/abstract/document/10887682) |
 | 5 Apr 2023 | SAM | Segment Anything | [arXiv](https://arxiv.org/abs/2304.02643) [GitHub](https://github.com/facebookresearch/segment-anything) |
-| 10 Dec 2015 | ResNet (ResNet-50, ResNet-101) | Deep Residual Learning for Image Recognition | [arXiv](https://arxiv.org/abs/1512.03385) [GitHub](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py) |
 | 24 Mar 2023 | Point-PEFT | Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28323) |
 | 16 Mar 2023 | ESM2 | Evolutionary-scale prediction of atomic protein structure with a language model | [Paper](https://www.science.org/doi/10.1126/science.ade2574) [GitHub](https://github.com/facebookresearch/esm) |
-| 26 Feb 2021 | CLIP | Learning Transferable Visual Models From Natural Language Supervision | [arXiv](https://arxiv.org/abs/2103.00020) [GitHub](https://github.com/openai/CLIP) |
-| 31 Dec 2020 | SETR | Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers | [arXiv](https://arxiv.org/abs/2012.15840) [GitHub](https://github.com/fudan-zvg/SETR) |
-| 23 May 2016 | WideResNet | Wide Residual Networks | [arXiv](https://arxiv.org/abs/1605.07146) [GitHub](https://github.com/szagoruyko/wide-residual-networks) |
-| 23 Dec 2020 | DeiT | Training data-efficient image transformers & distillation through attention | [arXiv](https://arxiv.org/abs/2012.12877) [GitHub](https://github.com/facebookresearch/deit) |
-| 17 Mar 2017 | ProtoNet | Prototypical Networks for Few-shot Learning | [arXiv](https://arxiv.org/abs/1703.05175) [GitHub](https://github.com/jakesnell/prototypical-networks) |
 | 20 Dec 2022 | DiT | Scalable Diffusion Models with Transformers | [arXiv](https://arxiv.org/abs/2212.09748) [GitHub](https://github.com/facebookresearch/DiT) |
-| 11 Feb 2021 | NFNets | High-Performance Large-Scale Image Recognition Without Normalization | [arXiv](https://arxiv.org/abs/2102.06171) [GitHub](https://github.com/deepmind/deepmind-research/tree/master/nfnets) |
-| 29 Nov 2021 | Point-BERT | Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling | [arXiv](https://arxiv.org/abs/2111.14819) [GitHub](https://github.com/lulutang0608/Point-BERT) |
-| 13 Mar 2022 | Point-MAE | Point-MAE: Masked Autoencoders for 3D Point Cloud Self-supervised Learning | [arXiv](https://arxiv.org/abs/2203.06604) [GitHub](https://github.com/Pang-Yatian/Point-MAE) |
 | 21 Feb 2022 | PointM2AE | Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ad1d7a4df30a9c0c46b387815a774a84-Abstract-Conference.html) |
-| 16 Mar 2022 | CodeReviewer | Automating Code Review Activities by Large Language Models | [arXiv](https://arxiv.org/abs/2203.09095) |
-| 7 Mar 2020 | RegNetX | Designing Network Design Spaces | [arXiv](https://arxiv.org/abs/2003.13678) [GitHub](https://github.com/facebookresearch/pycls) |
-| 11 Jan 2022 | ConvNeXt | A ConvNet for the 2020s | [arXiv](https://arxiv.org/abs/2201.03545) [GitHub](https://github.com/facebookresearch/ConvNeXt) |
-| 18 Jul 2021 | AS-MLP | AS-MLP: An Axial Shifted MLP Architecture for Vision | [arXiv](https://arxiv.org/abs/2107.08391) |
-| 13 Feb 2020 | SimCLR | A Simple Framework for Contrastive Learning of Visual Representations | [arXiv](https://arxiv.org/abs/2002.05709) [GitHub](https://github.com/google-research/simclr) |
-| 24 Feb 2021 | PVT | Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions | [arXiv](https://arxiv.org/abs/2102.12122) [GitHub](https://github.com/whai362/PVT) |
-| 11 Nov 2021 | MAE | Masked Autoencoders Are Scalable Vision Learners | [arXiv](https://arxiv.org/abs/2111.06377) [GitHub](https://github.com/facebookresearch/mae) |
 | 23 Mar 2022 | VideoMAE | VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training | [arXiv](https://arxiv.org/abs/2203.12602) [GitHub](https://github.com/MCG-NJU/VideoMAE) |
-| 4 Sep 2014 | VGG (VGG16, VGG19) | Very Deep Convolutional Networks for Large-Scale Image Recognition | [arXiv](https://arxiv.org/abs/1409.1556) [GitHub](https://github.com/pytorch/vision/blob/main/torchvision/models/vgg.py) |
-| 30 Jun 2018 | SELDnet | Sound Event Localization and Detection of Overlapping Sources Using Convolutional Recurrent Neural Networks | [arXiv](https://arxiv.org/abs/1807.00129) |
+| 16 Mar 2022 | CodeReviewer | Automating Code Review Activities by Large Language Models | [arXiv](https://arxiv.org/abs/2203.09095) |
+| 13 Mar 2022 | Point-MAE | Point-MAE: Masked Autoencoders for 3D Point Cloud Self-supervised Learning | [arXiv](https://arxiv.org/abs/2203.06604) [GitHub](https://github.com/Pang-Yatian/Point-MAE) |
+| 11 Jan 2022 | ConvNeXt | A ConvNet for the 2020s | [arXiv](https://arxiv.org/abs/2201.03545) [GitHub](https://github.com/facebookresearch/ConvNeXt) |
+| 29 Nov 2021 | Point-BERT | Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling | [arXiv](https://arxiv.org/abs/2111.14819) [GitHub](https://github.com/lulutang0608/Point-BERT) |
+| 11 Nov 2021 | MAE | Masked Autoencoders Are Scalable Vision Learners | [arXiv](https://arxiv.org/abs/2111.06377) [GitHub](https://github.com/facebookresearch/mae) |
 | 24 Jun 2021 | Swin Video Transformer | Video Swin Transformer | [arXiv](https://arxiv.org/abs/2106.13230) [GitHub](https://github.com/SwinTransformer/Video-Swin-Transformer) |
-
+| 31 May 2021 | Segformer | SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers | [arXiv](https://arxiv.org/abs/2105.15203) [GitHub](https://github.com/NVlabs/SegFormer) |
+| 18 Jul 2021 | AS-MLP | AS-MLP: An Axial Shifted MLP Architecture for Vision | [arXiv](https://arxiv.org/abs/2107.08391) |
+| 25 Mar 2021 | Swin Transformer (Swin-L, Swin-B) | Swin Transformer: Hierarchical Vision Transformer using Shifted Windows | [arXiv](https://arxiv.org/abs/2103.14030) [GitHub](https://github.com/microsoft/Swin-Transformer) |
+| 26 Feb 2021 | CLIP | Learning Transferable Visual Models From Natural Language Supervision | [arXiv](https://arxiv.org/abs/2103.00020) [GitHub](https://github.com/openai/CLIP) |
+| 24 Feb 2021 | PVT | Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions | [arXiv](https://arxiv.org/abs/2102.12122) [GitHub](https://github.com/whai362/PVT) |
+| 11 Feb 2021 | NFNets | High-Performance Large-Scale Image Recognition Without Normalization | [arXiv](https://arxiv.org/abs/2102.06171) [GitHub](https://github.com/deepmind/deepmind-research/tree/master/nfnets) |
+| 31 Dec 2020 | SETR | Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers | [arXiv](https://arxiv.org/abs/2012.15840) [GitHub](https://github.com/fudan-zvg/SETR) |
+| 23 Dec 2020 | DeiT | Training data-efficient image transformers & distillation through attention | [arXiv](https://arxiv.org/abs/2012.12877) [GitHub](https://github.com/facebookresearch/deit) |
+| 22 Oct 2020 | ViT (ViT-B/16, ViT-S) | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | [arXiv](https://arxiv.org/abs/2010.11929) [GitHub](https://github.com/google-research/vision_transformer) |
+| 7 Mar 2020 | RegNetX | Designing Network Design Spaces | [arXiv](https://arxiv.org/abs/2003.13678) [GitHub](https://github.com/facebookresearch/pycls) |
+| 13 Feb 2020 | SimCLR | A Simple Framework for Contrastive Learning of Visual Representations | [arXiv](https://arxiv.org/abs/2002.05709) [GitHub](https://github.com/google-research/simclr) |
+| 30 Jun 2018 | SELDnet | Sound Event Localization and Detection of Overlapping Sources Using Convolutional Recurrent Neural Networks | [arXiv](https://arxiv.org/abs/1807.00129) |
+| 17 Mar 2017 | ProtoNet | Prototypical Networks for Few-shot Learning | [arXiv](https://arxiv.org/abs/1703.05175) [GitHub](https://github.com/jakesnell/prototypical-networks) |
+| 23 May 2016 | WideResNet | Wide Residual Networks | [arXiv](https://arxiv.org/abs/1605.07146) [GitHub](https://github.com/szagoruyko/wide-residual-networks) |
+| 10 Dec 2015 | ResNet (ResNet-50, ResNet-101) | Deep Residual Learning for Image Recognition | [arXiv](https://arxiv.org/abs/1512.03385) [GitHub](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py) |
+| 4 Sep 2014 | VGG (VGG16, VGG19) | Very Deep Convolutional Networks for Large-Scale Image Recognition | [arXiv](https://arxiv.org/abs/1409.1556) [GitHub](https://github.com/pytorch/vision/blob/main/torchvision/models/vgg.py) |
 
 
 
