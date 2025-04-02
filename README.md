@@ -716,7 +716,7 @@
 | WoW                    | Knowledge-driven Dialogue Generation                | N/A                       |[Link](https://openreview.net/forum?id=r1l73iRqKm)              |
 | CosmosQA               | Commonsense Reading Comprehension                   | 35.6K questions           |[Link](https://aclanthology.org/D19-1243/)              |
 | HellaSwag              | Commonsense Reasoning / Sentence Completion         | N/A                       |[Link](https://aclanthology.org/P19-1472/)              |
-| MMLU                         | Multiple-Choice QA                            | 15,000+ questions across 57 subjects |              |
+| MMLU                         | Multiple-Choice QA                            | 15,000+ questions across 57 subjects |[Link](https://arxiv.org/abs/2009.03300)              |
 | The Pile                     | Language Modeling                             | 825GB                             |              |
 | WikiTableText                | Data-to-Text / QA                             | 100M+ tokens                      |              |
 | DART                         | Data-to-Text                                  | 82,191 examples                   |              |
