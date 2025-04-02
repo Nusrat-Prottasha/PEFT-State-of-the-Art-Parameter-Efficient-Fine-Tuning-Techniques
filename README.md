@@ -708,14 +708,14 @@
 | SuperGLUE              | Natural Language Understanding (NLU)                | N/A                       |[Link](https://arxiv.org/abs/1804.07461)              |
 | codeSearchNet          | --                                                  | 2 million                 |[Link](https://arxiv.org/abs/1909.09436)              |
 | AmazonQA/ProductQA     | Question Answering (QA)                             | 923K questions, 3.6M answers |[Link](https://arxiv.org/abs/1908.04364)           |
-| commonsenseQA (CSQA)   | Question Answering                                  | 12,247 questions          |              |
-| SAMSum                 | Dialogue Summarization                              | 16,369                    |              |
-| Word-in-Context (WiC)  | Evaluate Context-Sensitive Meaning                  | 7,466                     |              |
-| Hyperpartisan          | Binary Classification (Hyperpartisan vs. Non-Hyperpartisan) | 754,000 articles     |              |
-| PAWS                   | Paraphrase Identification                           | 108,463                   |              |
-| WoW                    | Knowledge-driven Dialogue Generation                | N/A                       |              |
-| CosmosQA               | Commonsense Reading Comprehension                   | 35.6K questions           |              |
-| HellaSwag              | Commonsense Reasoning / Sentence Completion         | N/A                       |              |
+| commonsenseQA (CSQA)   | Question Answering                                  | 12,247 questions          |[Link](https://aclanthology.org/N19-1421/)              |
+| SAMSum                 | Dialogue Summarization                              | 16,369                    |[Link](https://aclanthology.org/D19-5409/)              |
+| Word-in-Context (WiC)  | Evaluate Context-Sensitive Meaning                  | 7,466                     |[Link](https://aclanthology.org/N19-1128/)              |
+| Hyperpartisan          | Binary Classification (Hyperpartisan vs. Non-Hyperpartisan) | 754,000 articles     |[Link](https://aclanthology.org/S19-2145/)              |
+| PAWS                   | Paraphrase Identification                           | 108,463                   |[Link](https://aclanthology.org/N19-1131/)              |
+| WoW                    | Knowledge-driven Dialogue Generation                | N/A                       |[Link](https://openreview.net/forum?id=r1l73iRqKm)              |
+| CosmosQA               | Commonsense Reading Comprehension                   | 35.6K questions           |[Link](https://aclanthology.org/D19-1243/)              |
+| HellaSwag              | Commonsense Reasoning / Sentence Completion         | N/A                       |[Link](https://aclanthology.org/P19-1472/)              |
 | MMLU                         | Multiple-Choice QA                            | 15,000+ questions across 57 subjects |              |
 | The Pile                     | Language Modeling                             | 825GB                             |              |
 | WikiTableText                | Data-to-Text / QA                             | 100M+ tokens                      |              |
