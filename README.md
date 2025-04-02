@@ -690,24 +690,24 @@
 | MNLI            | Natural Language Inference                        | 433k                 |[Link](https://paperswithcode.com/dataset/multinli)              |
 | WebNLG          | Natural Language Generation                       | 13,211 triples        |[Link](https://synalp.gitlabpages.inria.fr/webnlg-challenge/files/2020.webnlg-papers.7.pdf)              |
 | STS-B           | Semantic Textual Similarity                       | 8,628 pairs           |[Link](https://aclanthology.org/S17-2001/)              |
-| HS              | Hate Speech Detection                             | 25,000 tweets         |              |
-| WikiSQL         | Text-to-SQL Generation                            | 80,654                |              |
-| ARC             | Multiple Choice Question Answering               | 7,787                |              |
-| GLUE            | Natural Language Understanding                    | N/A                  |              |
-| OBQA            | Commonsense Question Answering                    | 5,957 questions       |              |
-| ARC-Easy        | Multiple-choice Question Answering                | 5,197                |              |
-| ARC-Challenge   | Multiple-choice Question Answering                | 2,590                |              |
-| MultiRC                | Multi-Sentence Reading Comprehension                | 10,000 questions          |              |
-| XSum                   | Abstractive Summarization                           | 226,711                   |              |
-| CoLA                   | Sentence Acceptability                              | 10,657 sentences          |              |
-| SciTail dataset        | Textual Entailment                                  | 27,026 examples           |              |
-| SQuAD 2.0              | Question Answering                                  | 150,000+ question-answer pairs |         |
-| PIQA                   | Multiple Choice Question Answering                  | 19K                       |              |
-| Winogrande             | Commonsense Reasoning                               | 44K                       |              |
-| OSCAR                  | Pre-training Language Models                        | 50K                       |              |
-| SuperGLUE              | Natural Language Understanding (NLU)                | N/A                       |              |
-| codeSearchNet          | --                                                  | 2 million                 |              |
-| AmazonQA/ProductQA     | Question Answering (QA)                             | 923K questions, 3.6M answers |           |
+| HS              | Hate Speech Detection                             | 25,000 tweets         |[Link](https://github.com/t-davidson/hate-speech-and-offensive-language)              |
+| WikiSQL         | Text-to-SQL Generation                            | 80,654                |[Link](https://paperswithcode.com/dataset/wikisql)              |
+| ARC             | Multiple Choice Question Answering               | 7,787                |[Link](https://arxiv.org/abs/1803.05457)              |
+| GLUE            | Natural Language Understanding                    | N/A                  |[Link](https://arxiv.org/abs/1804.07461)              |
+| OBQA            | Commonsense Question Answering                    | 5,957 questions       |[Link](https://aclanthology.org/D18-1260/)              |
+| ARC-Easy        | Multiple-choice Question Answering                | 5,197                |[Link](https://arxiv.org/abs/1803.05457)              |
+| ARC-Challenge   | Multiple-choice Question Answering                | 2,590                |[Link](https://arxiv.org/abs/1803.05457)              |
+| MultiRC                | Multi-Sentence Reading Comprehension                | 10,000 questions          |[Link](https://aclanthology.org/N18-1023/)              |
+| XSum                   | Abstractive Summarization                           | 226,711                   |[Link](https://www.creativefabrica.com/product/narayana/)              |
+| CoLA                   | Sentence Acceptability                              | 10,657 sentences          |[Link](https://github.com/nyu-mll/CoLA/tree/master)              |
+| SciTail dataset        | Textual Entailment                                  | 27,026 examples           |[Link](https://github.com/tensorflow/datasets/blob/master/docs/catalog/sci_tail.md)              |
+| SQuAD 2.0              | Question Answering                                  | 150,000+ question-answer pairs |[Link](https://arxiv.org/abs/1606.05250)         |
+| PIQA                   | Multiple Choice Question Answering                  | 19K                       |[Link](https://arxiv.org/abs/1911.11641)              |
+| Winogrande             | Commonsense Reasoning                               | 44K                       |[Link](https://arxiv.org/abs/1907.10641)              |
+| OSCAR                  | Pre-training Language Models                        | 50K                       |[Link](https://oscar-project.org/publication/2019/clmc7/asynchronous/)              |
+| SuperGLUE              | Natural Language Understanding (NLU)                | N/A                       |[Link](https://arxiv.org/abs/1804.07461)              |
+| codeSearchNet          | --                                                  | 2 million                 |[Link](https://arxiv.org/abs/1909.09436)              |
+| AmazonQA/ProductQA     | Question Answering (QA)                             | 923K questions, 3.6M answers |[Link](https://arxiv.org/abs/1908.04364)           |
 | commonsenseQA (CSQA)   | Question Answering                                  | 12,247 questions          |              |
 | SAMSum                 | Dialogue Summarization                              | 16,369                    |              |
 | Word-in-Context (WiC)  | Evaluate Context-Sensitive Meaning                  | 7,466                     |              |
