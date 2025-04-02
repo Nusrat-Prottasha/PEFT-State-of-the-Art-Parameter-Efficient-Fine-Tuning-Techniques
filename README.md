@@ -656,7 +656,7 @@
 
 | Dataset        | Task Type                                          | Dataset Size         | Dataset Link |
 |----------------|----------------------------------------------------|-----------------------|--------------|
-| 20 Newsgroups  | Text Classification                                | 20K                  |              |
+| 20 Newsgroups  | Text Classification                                | 20K                  |[Link](https://archive.ics.uci.edu/dataset/113/twenty+newsgroups)
 | CoNLL03        | Named Entity Recognition                           | 2302 articles        |              |
 | CoNLL04        | Relation Extraction Tasks                          | 1,437 sentences      |              |
 | SST-2          | Sentiment Classification                           | 215,154              |              |
