@@ -717,29 +717,29 @@
 | CosmosQA               | Commonsense Reading Comprehension                   | 35.6K questions           |[Link](https://aclanthology.org/D19-1243/)              |
 | HellaSwag              | Commonsense Reasoning / Sentence Completion         | N/A                       |[Link](https://aclanthology.org/P19-1472/)              |
 | MMLU                         | Multiple-Choice QA                            | 15,000+ questions across 57 subjects |[Link](https://arxiv.org/abs/2009.03300)              |
-| The Pile                     | Language Modeling                             | 825GB                             |              |
-| WikiTableText                | Data-to-Text / QA                             | 100M+ tokens                      |              |
-| DART                         | Data-to-Text                                  | 82,191 examples                   |              |
-| C4                           | Language Modeling / Pre-training              | 806.87 GiB                        |              |
-| LibriLight                   | Self-supervised Speech                        | 60,000 hours                      |              |
-| ANLI                         | Natural Language Inference                    | 162,865 examples                  |              |
-| COMMONGEN                    | Text Generation                               | 79K descriptions over 35K concept sets |           |
-| GSM8K (Grade School Math 8K) | Mathematical Problem Solving                  | 8,500                             |              |
-| MATH                         | Mathematical Problem Solving                  | 12,500                            |              |
-| TruthfulQA                   | Question Answering, Text Generation           | 817                               |              |
-| Therapeutics Data Commons benchmark | AI-driven drug discovery            | 66 AI-ready datasets              |              |
-| SVAMP                        | Math Word Problem Solving                     | 1,000 problems                    |              |
-| CUB-200-2011   | Fine-grained Image Classification                  | 11,788 images              |              |
-| EL EVATER      | Multimodal Entity Linking, Visual Attribute Recognition | 10,000 instances (text-image pairs) |     |
-| TB-1k          | Medical Image Classification                       | 1,000K                     |              |
+| The Pile                     | Language Modeling                             | 825GB                             |[Link](https://arxiv.org/abs/2101.00027)              |
+| WikiTableText                | Data-to-Text / QA                             | 100M+ tokens                      |[Link](https://arxiv.org/abs/1609.07843)              |
+| DART                         | Data-to-Text                                  | 82,191 examples                   |[Link](https://aclanthology.org/2021.naacl-main.37/)              |
+| C4                           | Language Modeling / Pre-training              | 806.87 GiB                        |[Link](https://arxiv.org/abs/1910.10683)              |
+| LibriLight                   | Self-supervised Speech                        | 60,000 hours                      |[Link](https://awwa.onlinelibrary.wiley.com/doi/full/10.1002/aws2.1179)              |
+| ANLI                         | Natural Language Inference                    | 162,865 examples                  |[Link](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)              |
+| COMMONGEN                    | Text Generation                               | 79K descriptions over 35K concept sets |[Link](https://aclanthology.org/2020.findings-emnlp.165/)           |
+| GSM8K (Grade School Math 8K) | Mathematical Problem Solving                  | 8,500                             |[Link](https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/tasks/gsm8k/README.md)              |
+| MATH                         | Mathematical Problem Solving                  | 12,500                            |[Link](https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/tasks/gsm8k/README.md)              |
+| TruthfulQA                   | Question Answering, Text Generation           | 817                               |[Link](https://arxiv.org/abs/2109.07958)              |
+| Therapeutics Data Commons benchmark | AI-driven drug discovery            | 66 AI-ready datasets              |[Link](https://pubmed.ncbi.nlm.nih.gov/34305919/)              |
+| SVAMP                        | Math Word Problem Solving                     | 1,000 problems                    |[Link](https://github.com/arkilpatel/SVAMP)              |
+| CUB-200-2011   | Fine-grained Image Classification                  | 11,788 images              |[Link](https://authors.library.caltech.edu/records/cvm3y-5hh21)              |
+| EL EVATER      | Multimodal Entity Linking, Visual Attribute Recognition | 10,000 instances (text-image pairs) |[Link](https://w3.jamstec.go.jp/apl/j/members/sasaki/ofes_publication.html)     |
+| TB-1k          | Medical Image Classification                       | 1,000K                     |[Link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)              |
 | ro-en          | --                                                 | 614,318 sentences          |              |
 | de-en          | --                                                 | 4,554,053 sentences        |              |
 | Ha–En          | --                                                 | 50,000 sentences           |              |
 | (De-En)        | --                                                 | N/A                        |              |
 | Fr–De          | --                                                 | N/A                        |              |
 | Fr–Es          | --                                                 | N/A                        |              |
-| Flan v2                  | Instruction tuning for NLP tasks                   | 1,800+                              |              |
-| BBH                      | Question-Answering                                 | 6,511                               |              |
+| Flan v2                  | Instruction tuning for NLP tasks                   | 1,800+                              |[Link](https://jasonwei20.github.io/files/FLAN%20talk%20external.pdf)              |
+| BBH                      | Question-Answering                                 | 6,511                               |[Link](https://arxiv.org/abs/2210.09261)              |
 | Pix2Struc                | Visual Language Understanding                      | N/A                                 |              |
 | M2D2                     | Text                                               | 8.5B tokens across 145 domains      |              |
 | Alpaca                   | Instruction Following                              | 52K                                 |              |
