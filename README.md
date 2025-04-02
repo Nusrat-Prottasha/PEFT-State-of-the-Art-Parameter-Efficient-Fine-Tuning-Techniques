@@ -660,36 +660,36 @@
 | CoNLL03        | Named Entity Recognition                           | 2302 articles        |[Link](http://arxiv.org/abs/cs/0306050)|
 | CoNLL04        | Relation Extraction Tasks                          | 1,437 sentences      |[Link](https://aclanthology.org/W04-2401/)              |
 | SST-2          | Sentiment Classification                           | 215,154              |[Link](https://aclanthology.org/D13-1170/)             |
-| MRPC           | Paraphrase Detection                               | 5,800                |              |
-| ACE2005        | Information Extraction (IE)                        | 599 documents        |              |
-| WMT            | Machine Translation                                | N/A                  |              |
-| MPQA           | Opinion Mining                                     | 535 (articles)       |              |
-| Common Crawl   | Web Scraping, NLP Pretraining                      | 386 TiB              |              |
-| i2b2 2010 RE   | Relation Extraction in Clinical Text               | 877 documents        |              |
-| Semeval-2010   | Semantic Role Labeling, WSD, Relation Extraction   | 284                  |              |
-| COPA           | Commonsense Causal Reasoning                       | 1000 questions       |              |
-| IMDb           | Sentiment Classification                           | 50k reviews          |              |
-| SBU            | Image Captioning                                   | 1 million images     |              |
-| WebQ           | Question Answering                                 | 6,642                |              |
-| OntoNotes      | NER, Coreference Resolution                        | 2.9453M              |              |
-| DUT            | Salient Object Detection                           | 5,168 images         |              |
-| AG News        | Text Classification                                | 1M                   |              |
-| Yelp           | Sentiment Classification                           | 700,000              |              |
-| VQA v2.0       | Visual Question Answering                          | 265,016              |              |
-| TriviaQA       | Question Answering                                 | 650K                 |              |
-| SQuAD          | Question Answering                                 | 100K                 |              |
-| BoolQ          | Boolean Question Answering                         | 15,942               |              |
-| YELP-Polarity   | Sentiment Analysis (Binary Classification)       | 560,000              |              |
-| CNN/DailyMail   | Abstractive Summarization                         | 313k                 |              |
-| Yelp            | Sentiment Classification                         | 700,000              |              |
-| WMT 16 en-ro    | Machine Translation (English to Romanian and vice versa) | 2 million sentences  |              |
-| MAWPS           | Math Word Problem Solving                         | 2,373 problems        |              |
-| MIMIC-III MP    | Medical Predictive Modeling                       | 60,000 ICU stays      |              |
-| WMT 16 en-ro    | Machine Translation (English to Romanian and vice versa) | 2 million sentences  |              |
-| E2E             | Data to Text Generation                           | N/A                  |              |
-| MNLI            | Natural Language Inference                        | 433k                 |              |
-| WebNLG          | Natural Language Generation                       | 13,211 triples        |              |
-| STS-B           | Semantic Textual Similarity                       | 8,628 pairs           |              |
+| MRPC           | Paraphrase Detection                               | 5,800                |[Link](https://aclanthology.org/I05-5002/)              |
+| ACE2005        | Information Extraction (IE)                        | 599 documents        |[Link](https://github.com/ualbertalib/metadata/blob/master/metadata-wrangling/ldc_metadata/ual_ldc_marc.mrc)              |
+| WMT            | Machine Translation                                | N/A                  |[Link](https://aclanthology.org/2022.wmt-1.1.pdf)              |
+| MPQA           | Opinion Mining                                     | 535 (articles)       |[Link](https://www.cs.cornell.edu/home/cardie/papers/lre05withappendix.pdf)              |
+| Common Crawl   | Web Scraping, NLP Pretraining                      | 386 TiB              |[Link](https://commoncrawl.org/)              |
+| i2b2 2010 RE   | Relation Extraction in Clinical Text               | 877 documents        |[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC3168320/)              |
+| Semeval-2010   | Semantic Role Labeling, WSD, Relation Extraction   | 284                  |[Link](https://aclanthology.org/S10-1004/)              |
+| COPA           | Commonsense Causal Reasoning                       | 1000 questions       |[Link](https://aclanthology.org/S12-1052/)              |
+| IMDb           | Sentiment Classification                           | 50k reviews          |[Link](https://aclanthology.org/P11-1015/)              |
+| SBU            | Image Captioning                                   | 1 million images     |[Link](https://ieeexplore.ieee.org/document/8953407)              |
+| WebQ           | Question Answering                                 | 6,642                |[Link](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)              |
+| OntoNotes      | NER, Coreference Resolution                        | 2.9453M              |[Link](https://aclanthology.org/D13-1160/)              |
+| DUT            | Salient Object Detection                           | 5,168 images         |[Link](https://ieeexplore.ieee.org/document/6619251)              |
+| AG News        | Text Classification                                | 1M                   |[Link](https://arxiv.org/abs/1509.01626)              |
+| Yelp           | Sentiment Classification                           | 700,000              |[Link](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)             |
+| VQA v2.0       | Visual Question Answering                          | 265,016              |[Link](https://arxiv.org/pdf/1509.01626)              |
+| TriviaQA       | Question Answering                                 | 650K                 |[Link](https://arxiv.org/html/2406.11811v1)              |
+| SQuAD          | Question Answering                                 | 100K                 |[Link](https://aclanthology.org/D16-1264/)              |
+| BoolQ          | Boolean Question Answering                         | 15,942               |[Link](https://github.com/google-research-datasets/boolean-questions)             |
+| YELP-Polarity   | Sentiment Analysis (Binary Classification)       | 560,000              |[Link](https://paperswithcode.com/dataset/yelp-review-polarity)              |
+| CNN/DailyMail   | Abstractive Summarization                         | 313k                 |[Link](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail)              |
+| Yelp            | Sentiment Classification                         | 700,000              |[Link](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)              |
+| WMT 16 en-ro    | Machine Translation (English to Romanian and vice versa) | 2 million sentences  |[Link](https://arxiv.org/abs/1606.02891)              |
+| MAWPS           | Math Word Problem Solving                         | 2,373 problems        |[Link](https://aclanthology.org/N16-1136/)              |
+| MIMIC-III MP    | Medical Predictive Modeling                       | 60,000 ICU stays      |[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC4878278/)              |
+| WMT 16 en-ro    | Machine Translation (English to Romanian and vice versa) | 2 million sentences  |[Link](https://arxiv.org/abs/1606.02891)              |
+| E2E             | Data to Text Generation                           | N/A                  |[Link](https://paperswithcode.com/sota/data-to-text-generation-on-e2e)              |
+| MNLI            | Natural Language Inference                        | 433k                 |[Link](https://paperswithcode.com/dataset/multinli)              |
+| WebNLG          | Natural Language Generation                       | 13,211 triples        |[Link](https://synalp.gitlabpages.inria.fr/webnlg-challenge/files/2020.webnlg-papers.7.pdf)              |
+| STS-B           | Semantic Textual Similarity                       | 8,628 pairs           |[Link](https://aclanthology.org/S17-2001/)              |
 | HS              | Hate Speech Detection                             | 25,000 tweets         |              |
 | WikiSQL         | Text-to-SQL Generation                            | 80,654                |              |
 | ARC             | Multiple Choice Question Answering               | 7,787                |              |
