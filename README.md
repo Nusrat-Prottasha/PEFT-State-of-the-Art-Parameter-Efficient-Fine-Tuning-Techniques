@@ -657,9 +657,9 @@
 | Dataset        | Task Type                                          | Dataset Size         | Dataset Link |
 |----------------|----------------------------------------------------|-----------------------|--------------|
 | 20 Newsgroups  | Text Classification                                | 20K                  |[Link](https://archive.ics.uci.edu/dataset/113/twenty+newsgroups)
-| CoNLL03        | Named Entity Recognition                           | 2302 articles        |              |
-| CoNLL04        | Relation Extraction Tasks                          | 1,437 sentences      |              |
-| SST-2          | Sentiment Classification                           | 215,154              |              |
+| CoNLL03        | Named Entity Recognition                           | 2302 articles        |[Link](http://arxiv.org/abs/cs/0306050)|
+| CoNLL04        | Relation Extraction Tasks                          | 1,437 sentences      |[Link](https://aclanthology.org/W04-2401/)              |
+| SST-2          | Sentiment Classification                           | 215,154              |[Link](https://aclanthology.org/D13-1170/)             |
 | MRPC           | Paraphrase Detection                               | 5,800                |              |
 | ACE2005        | Information Extraction (IE)                        | 599 documents        |              |
 | WMT            | Machine Translation                                | N/A                  |              |
