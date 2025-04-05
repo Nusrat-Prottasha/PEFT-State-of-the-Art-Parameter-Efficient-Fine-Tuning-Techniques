@@ -830,6 +830,5 @@
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://github.com/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques">
-  <img src="https://example.com/your-custom-image.png" alt="PEFT Contribution Banner"/>
 </a>
 
