@@ -23,6 +23,10 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
+## ⭐ <span id="head1"> *Citation* </span>
+
+If you find this useful for your research, please cite it below:
+
 ## 🚀 Serial Adapters
 
 - Parameter-Efficient Transfer Learning for NLP [[Paper](https://arxiv.org/abs/1902.00751)]
