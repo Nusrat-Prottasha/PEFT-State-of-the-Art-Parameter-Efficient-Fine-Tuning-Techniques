@@ -740,33 +740,33 @@
 | Fr–Es          | --                                                 | N/A                        |              |
 | Flan v2                  | Instruction tuning for NLP tasks                   | 1,800+                              |[Link](https://jasonwei20.github.io/files/FLAN%20talk%20external.pdf)              |
 | BBH                      | Question-Answering                                 | 6,511                               |[Link](https://arxiv.org/abs/2210.09261)              |
-| Pix2Struc                | Visual Language Understanding                      | N/A                                 |              |
-| M2D2                     | Text                                               | 8.5B tokens across 145 domains      |              |
-| Alpaca                   | Instruction Following                              | 52K                                 |              |
-| GPT-4 Alpaca             | Instruction-following fine-tuning                  | 52K                                 |              |
-| Dolly                    | Instruction-Following NLP                          | 15K prompts                         |              |
-| Orca                     | Instruction-Following, Reasoning                   | 1.6 million                         |              |
-| GPT-4-Turbo              | --                                                 | 128k                                |              |
-| AI4Bharat Naamapadam     | NER on Indian languages                            | 400k sentences                      |              |
-| AmericasNLI              | Natural Language Inference                         | N/A                                 |              |
-| SIQA                     | Text                                               | 33,410                              |              |
-| TREC                     | Question Classification                            | 4,500                               |              |
-| ScienceQ                 | Science Question Answering                         | N/A                                 |              |
-| Wikitext2                | Language Modeling                                  | 2M                                  |              |
-| Penn Treebank            | Language Modeling                                  | 1M                                  |              |
-| VQA v2.0                 | Visual Question Answering                          | 265,016                             |              |
-| VisDA-C                  | Domain Adaptation for Image Classification         | 280k images                         |              |
-| ImageNet-Sketch          | Image Classification                               | 50,889 images                       |              |
-| ImageNet-A               | Image Classification                               | 7,500 images                        |              |
-| DocVQA                   | Visual Question Answering (VQA) on documents       | 50,000 questions, 12,767 images     |              |
-| IWSLT                    | --                                                 | N/A                                 |              |
-| FGVC                     | Fine-grained object classification                 | 10,200 images of aircraft           |              |
-| OPUS-100                         | Multilingual Machine Translation (text-to-text)                      | 55 million parallel sentences           |              |
-| MS COCO dataset                  | Object Detection, Instance Segmentation, Panoptic Segmentation, Image Captioning, Keypoint Detection | 118K images / 5K images / 41K images |              |
-| COCO Stuff                       | Semantic Segmentation, Panoptic Segmentation, Scene Understanding    | 164,000 images                          |              |
-| PASCAL VOC                       | Object Detection, Semantic Segmentation, Image Classification, Action Recognition, Person Layout | VOC 2012: 11,530 images; Object instances: 27,450; Segmentation: 2,913 images with pixel masks |              |
-| MICCAI 2015 Multi-Atlas Abdomen Labeling Challenge | Multi-organ Segmentation (13 abdominal organs)                     | 30 CT scans / 20 CT scans               |              |
-| PASCAL Context                   | Object Detection/Segmentation, Semantic Segmentation, Scene Parsing  | 10,103 images with 65,937 labeled objects; Classes: 459 |              |
+| Pix2Struc                | Visual Language Understanding                      | N/A                                 |[Link](https://arxiv.org/abs/2210.03347)              |
+| M2D2                     | Text                                               | 8.5B tokens across 145 domains      |[Link](https://aclanthology.org/2022.emnlp-main.63/)              |
+| Alpaca                   | Instruction Following                              | 52K                                 |[Link](https://crfm.stanford.edu/2023/03/13/alpaca.html)              |
+| GPT-4 Alpaca             | Instruction-following fine-tuning                  | 52K                                 |[Link](https://github.com/tatsu-lab/stanford_alpaca)              |
+| Dolly                    | Instruction-Following NLP                          | 15K prompts                         |[Link](https://aclanthology.org/N12-4001/)              |
+| Orca                     | Instruction-Following, Reasoning                   | 1.6 million                         |[Link](https://arxiv.org/abs/2306.02707)              |
+| GPT-4-Turbo              | --                                                 | 128k                                |N/A             |
+| AI4Bharat Naamapadam     | NER on Indian languages                            | 400k sentences                      |[Link](https://aclanthology.org/2023.acl-long.582/)              |
+| AmericasNLI              | Natural Language Inference                         | N/A                                 |N/A              |
+| SIQA                     | Text                                               | 33,410                              |N/A              |
+| TREC                     | Question Classification                            | 4,500                               |[Link](https://aclanthology.org/C02-1150/)              |
+| ScienceQ                 | Science Question Answering                         | N/A                                 |N/A              |
+| Wikitext2                | Language Modeling                                  | 2M                                  |[Link](https://arxiv.org/abs/1609.07843)              |
+| Penn Treebank            | Language Modeling                                  | 1M                                  |N/A              |
+| VQA v2.0                 | Visual Question Answering                          | 265,016                             |[Link](https://arxiv.org/abs/1612.00837)              |
+| VisDA-C                  | Domain Adaptation for Image Classification         | 280k images                         |[Link](https://arxiv.org/abs/1710.06924)              |
+| ImageNet-Sketch          | Image Classification                               | 50,889 images                       |[Link](https://papers.nips.cc/paper_files/paper/2019/hash/3eefceb8087e964f89c2d59e8a249915-Abstract.html)              |
+| ImageNet-A               | Image Classification                               | 7,500 images                        |[Link](https://paperswithcode.com/dataset/imagenet-a)              |
+| DocVQA                   | Visual Question Answering (VQA) on documents       | 50,000 questions, 12,767 images     |[Link](https://arxiv.org/abs/2007.00398)              |
+| IWSLT                    | --                                                 | N/A                                 |N/A              |
+| FGVC                     | Fine-grained object classification                 | 10,200 images of aircraft           |[Link](https://arxiv.org/abs/1306.5151)              |
+| OPUS-100                         | Multilingual Machine Translation (text-to-text)                      | 55 million parallel sentences           |[Link](https://www.researchgate.net/publication/361063314_OneAligner_Zero-shot_Cross-lingual_Transfer_with_One_Rich-Resource_Language_Pair_for_Low-Resource_Sentence_Retrieval)              |
+| MS COCO dataset                  | Object Detection, Instance Segmentation, Panoptic Segmentation, Image Captioning, Keypoint Detection | 118K images / 5K images / 41K images |[Link](https://arxiv.org/abs/1405.0312)              |
+| COCO Stuff                       | Semantic Segmentation, Panoptic Segmentation, Scene Understanding    | 164,000 images                          |[Link](https://github.com/nightrome/cocostuff)              |
+| PASCAL VOC                       | Object Detection, Semantic Segmentation, Image Classification, Action Recognition, Person Layout | VOC 2012: 11,530 images; Object instances: 27,450; Segmentation: 2,913 images with pixel masks |[Link](http://host.robots.ox.ac.uk/pascal/VOC/pubs/everingham10.html)              |
+| MICCAI 2015 Multi-Atlas Abdomen Labeling Challenge | Multi-organ Segmentation (13 abdominal organs)                     | 30 CT scans / 20 CT scans               |[Link](https://paperswithcode.com/dataset/miccai-2015-multi-atlas-abdomen-labeling)              |
+| PASCAL Context                   | Object Detection/Segmentation, Semantic Segmentation, Scene Parsing  | 10,103 images with 65,937 labeled objects; Classes: 459 |[Link](https://openaccess.thecvf.com/content_cvpr_2014/html/Mottaghi_The_Role_of_2014_CVPR_paper.html)              |
 | Pascal Context-59               | Semantic Segmentation, Scene Parsing                                 | 10,103 images with dense labels for 59 classes |       |
 | Pascal Context-459              | --                                                                    | N/A                                     |              |
 | ADE20K 150           | Semantic Segmentation, Scene Parsing, Instance Segmentation (optional) | 25,000 images                    |              |
