@@ -825,3 +825,10 @@
 | VQA v2.0              | Visual Question Answering                             | 265,016                               |              |
 
 
+## 🧒 <span id="head1"> *Contribution* </span>
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://github.com/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=synbol/Awesome-Parameter-Efficient-Transfer-Learning" />
+</a>
