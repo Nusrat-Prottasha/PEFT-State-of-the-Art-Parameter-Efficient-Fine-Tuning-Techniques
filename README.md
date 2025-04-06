@@ -736,12 +736,12 @@ If you find this useful for your research, please cite it below:
 | CUB-200-2011   | Fine-grained Image Classification                  | 11,788 images              |[Link](https://authors.library.caltech.edu/records/cvm3y-5hh21)              |
 | EL EVATER      | Multimodal Entity Linking, Visual Attribute Recognition | 10,000 instances (text-image pairs) |[Link](https://w3.jamstec.go.jp/apl/j/members/sasaki/ofes_publication.html)     |
 | TB-1k          | Medical Image Classification                       | 1,000K                     |[Link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)              |
-| ro-en          | --                                                 | 614,318 sentences          |              |
-| de-en          | --                                                 | 4,554,053 sentences        |              |
-| Ha–En          | --                                                 | 50,000 sentences           |              |
-| (De-En)        | --                                                 | N/A                        |              |
-| Fr–De          | --                                                 | N/A                        |              |
-| Fr–Es          | --                                                 | N/A                        |              |
+| ro-en          | --                                                 | 614,318 sentences          |N/A              |
+| de-en          | --                                                 | 4,554,053 sentences        |N/A              |
+| Ha–En          | --                                                 | 50,000 sentences           |N/A              |
+| (De-En)        | --                                                 | N/A                        |N/A              |
+| Fr–De          | --                                                 | N/A                        |N/A              |
+| Fr–Es          | --                                                 | N/A                        |N/A              |
 | Flan v2                  | Instruction tuning for NLP tasks                   | 1,800+                              |[Link](https://jasonwei20.github.io/files/FLAN%20talk%20external.pdf)              |
 | BBH                      | Question-Answering                                 | 6,511                               |[Link](https://arxiv.org/abs/2210.09261)              |
 | Pix2Struc                | Visual Language Understanding                      | N/A                                 |[Link](https://arxiv.org/abs/2210.03347)              |
@@ -804,29 +804,29 @@ If you find this useful for your research, please cite it below:
 | SBU                | Image Captioning                                 | 1 million images                  |[Link](https://opendatalab.com/OpenDataLab/SBU_Captions_Dataset)              |
 | OxfordPets         | Fine-Grained Classification & Semantic Segmentation | 7,390 images                   |[Link](https://www.robots.ox.ac.uk/~vgg/publications/2012/parkhi12a/parkhi12a.pdf)              |
 | DUT                | Salient Object Detection                         | 5,168 images                      |[Link](https://www.kaggle.com/datasets/balraj98/duts-saliency-detection-dataset)              |
-| DTD                   | Texture Classification                                | 5,640 images                          |              |
-| Food101               | Food Image Classification                             | 101,000 images                        |              |
-| Kinetics-400          | Action Recognition, Video Classification              | 650k video clips                      |              |
-| Something-Something-v2| Temporal Action Recognition                           | 220,847 videos                        |              |
-| EuroSAT               | Land Use/Land Cover Classification                    | 27,000 images                         |              |
-| iNaturalist 2018      | Fine-Grained Species Classification                   | 611,753 images                        |              |
-| IMD20                 | --                                                    | 35,000 images                         |              |
-| COD10K                | Camouflaged Object Detection                          | 10,000 images                         |              |
-| CAMO                  | Camouflaged Object Segmentation                       | 1,250 images                          |              |
-| ISTD                  | Shadow Detection & Removal                            | N/A                                   |              |
-| UCF101                | Action Recognition, Video Classification              | 13,320 videos (7.2 GB)                |              |
-| SUN397                | Scene Classification                                  | 108,753 images                        |              |
-| ABIDE                 | Neuroimaging Classification (ASD vs. Controls)        | 1,112 subjects                        |              |
-| Places-LT             | Long-Tailed Scene Classification                      | 62,500 images                         |              |
-| CASIA                 | --                                                    | N/A                                   |              |
-| IMD20                 | --                                                    | N/A                                   |              |
-| CUHK                 | --                                                    | N/A                                   |              |
-| CHAMELEON (Confused)  | --                                                    | N/A                                   |              |
-| Kinetics-700          | --                                                    | N/A                                   |              |
-| DF-20M mini           | --                                                    | N/A                                   |              |
-| RIGA+ (Not found)     | --                                                    | 55                                    |              |
-| SCGM (Not found)      | --                                                    | N/A                                   |              |
-| VQA v2.0              | Visual Question Answering                             | 265,016                               |              |
+| DTD                   | Texture Classification                                | 5,640 images                          |[Link](https://arxiv.org/abs/1311.3618)              |
+| Food101               | Food Image Classification                             | 101,000 images                        |[Link](https://opendatalab.com/OpenDataLab/Food-101)              |
+| Kinetics-400          | Action Recognition, Video Classification              | 650k video clips                      |[Link](https://paperswithcode.com/dataset/kinetics-400-1)              |
+| Something-Something-v2| Temporal Action Recognition                           | 220,847 videos                        |[Link](https://arxiv.org/abs/1706.04261)              |
+| EuroSAT               | Land Use/Land Cover Classification                    | 27,000 images                         |[Link](https://github.com/phelber/EuroSAT)              |
+| iNaturalist 2018      | Fine-Grained Species Classification                   | 611,753 images                        |[Link](https://forum.inaturalist.org/t/published-papers-that-use-inaturalist-data-wiki-4-2024/47837)              |
+| IMD20                 | --                                                    | 35,000 images                         |[Link](https://staff.utia.cas.cz/novozada/db/)              |
+| COD10K                | Camouflaged Object Detection                          | 10,000 images                         |[Link](https://paperswithcode.com/dataset/cod10k)              |
+| CAMO                  | Camouflaged Object Segmentation                       | 1,250 images                          |[Link](https://opendatalab.com/OpenDataLab/CAMO)              |
+| ISTD                  | Shadow Detection & Removal                            | N/A                                   |[Link](https://opendatalab.com/OpenDataLab/ISTD)              |
+| UCF101                | Action Recognition, Video Classification              | 13,320 videos (7.2 GB)                |[Link](https://arxiv.org/abs/1212.0402)              |
+| SUN397                | Scene Classification                                  | 108,753 images                        |[Link](https://www.mindspore.cn/docs/en/r2.3.0/api_python/dataset/mindspore.dataset.SUN397Dataset.html)              |
+| ABIDE                 | Neuroimaging Classification (ASD vs. Controls)        | 1,112 subjects                        |[Link](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)              |
+| Places-LT             | Long-Tailed Scene Classification                      | 62,500 images                         |[Link](https://paperswithcode.com/dataset/places-lt)              |
+| CASIA                 | --                                                    | N/A                                   |[Link](https://www.kaggle.com/datasets/sophatvathana/casia-dataset)              |
+| IMD20                 | --                                                    | N/A                                   |[Link](https://staff.utia.cas.cz/novozada/db/)              |
+| CUHK                 | --                                                    | N/A                                    |[Link](https://www.kaggle.com/datasets/arbazkhan971/cuhk-face-sketch-database-cufs)              |
+| CHAMELEON (Confused)  | --                                                    | N/A                                   |[Link](https://paperswithcode.com/dataset/chameleon-48-32-20-fixed-splits)              |
+| Kinetics-700          | --                                                    | N/A                                   |[Link](https://paperswithcode.com/dataset/kinetics-700)              |
+| DF-20M mini           | --                                                    | N/A                                   |[Link](https://paperswithcode.com/dataset/df20-mini)              |
+| RIGA+ (Not found)     | --                                                    | 55                                    |[Link](https://zenodo.org/records/6325549)              |
+| SCGM (Not found)      | --                                                    | N/A                                   |[Link](https://github.com/nijingchao/SCGM)              |
+| VQA v2.0              | Visual Question Answering                             | 265,016                               |[Link](https://paperswithcode.com/dataset/visual-question-answering-v2-0)              |
 
 
 ## 🧒 <span id="head1"> *Contribution* </span>
