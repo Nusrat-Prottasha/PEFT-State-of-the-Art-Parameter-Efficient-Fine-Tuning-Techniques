@@ -1,5 +1,5 @@
 <h1 align="center">✨ Awesome PEFT A2Z </em> ✨</h1>
-<h2 align="center"> PEFT State of the Art Parameter Efficient Fine Tuning Techniques</em> </h2>
+<h2 align="center"> SOTA-PEFT: State of the Art Parameter Efficient Fine Tuning Techniques for Large Language and Vision Models </em> </h2>
 
 <p align="center">
   <a href="https://github.com/hee9joon/Awesome-Diffusion-Models">
