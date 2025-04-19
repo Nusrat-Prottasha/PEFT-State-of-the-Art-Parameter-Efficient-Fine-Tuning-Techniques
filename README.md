@@ -23,6 +23,12 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
+<p align="center">
+
+<img src="./figures/peft_tree.drawio.png" width="870">
+
+</p>
+
 ## ⭐ <span id="head1"> *Citation* </span>
 
 If you find this useful for your research, please cite it below:
