@@ -2,7 +2,7 @@
 <h2 align="center"> SOTA PEFT: State of the Art Parameter Efficient Fine Tuning Techniques for Large Language and Vision Models </em> </h2>
 
 <p align="center">
-  <a href="https://github.com/hee9joon/Awesome-Diffusion-Models">
+  <a href="https://github.com/Nusrat-Prottasha/PEFT-A2Z">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge">
   </a>
 </p>
