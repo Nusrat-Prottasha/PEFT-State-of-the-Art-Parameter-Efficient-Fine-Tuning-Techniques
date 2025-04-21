@@ -848,6 +848,6 @@ If you find this useful for your research, please cite it below:
 ## 🧒 <span id="head1"> *Contribution* </span>
 
 <a href="https://github.com/Nusrat-Prottasha/PEFT-A2Z/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning" />
+  <img src="https://contrib.rocks/image?repo=Nusrat-Prottasha/PEFT-A2Z" />
 </a>
 
