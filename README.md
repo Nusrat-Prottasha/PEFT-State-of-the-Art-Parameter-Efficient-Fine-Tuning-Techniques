@@ -847,8 +847,7 @@ If you find this useful for your research, please cite it below:
 
 ## 🧒 <span id="head1"> *Contribution* </span>
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://github.com/Nusrat-Prottasha/PEFT-State-of-the-Art-Parameter-Efficient-Fine-Tuning-Techniques">
+<a href="https://github.com/Nusrat-Prottasha/PEFT-A2Z/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning" />
 </a>
 
