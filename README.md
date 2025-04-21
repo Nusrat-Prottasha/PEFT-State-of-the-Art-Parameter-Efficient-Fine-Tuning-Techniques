@@ -31,7 +31,14 @@
 
 ## 🚀 <span id="head1"> *Introduction* </span>
 
-Large Language Models (LLMs) and Pre‑trained Language Models (PLMs) have revolutionized artificial intelligence, driving breakthroughs in text generation, translation, conversational agents, and multimodal understanding. However, their sheer scale—often billions of parameters—makes full fine‑tuning prohibitively expensive in compute, memory, and storage. This work addresses that gap by surveying **Parameter‑Efficient Fine‑Tuning (PEFT)** methods, which adapt large models by updating only a small fraction of parameters. We catalog foundational techniques (e.g., adapters, prefix‑tuning, LoRA), present a unified taxonomy, and identify open challenges and future directions for making large‑scale model adaptation more accessible and sustainable. :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
+Large Language Models (LLMs) and Pre‑trained Language Models (PLMs) have revolutionized artificial intelligence, driving breakthroughs in text generation, translation, conversational agents, and multimodal understanding. However, their sheer scale—often billions of parameters—makes full fine‑tuning prohibitively expensive in compute, memory, and storage. This work addresses that gap by surveying **Parameter‑Efficient Fine‑Tuning (PEFT)** methods, which adapt large models by updating only a small fraction of parameters. We catalog foundational techniques (e.g., adapters, prefix‑tuning, LoRA), present a unified taxonomy, and identify open challenges and future directions for making large‑scale model adaptation more accessible and sustainable.
+
+<p align="center">
+
+<img src="./figures/overview of PEFT" width="870">
+
+</p>
+
 
 ## 💡 <span id="head1"> *Abstract* </span>
 
