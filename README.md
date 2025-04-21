@@ -845,7 +845,9 @@ If you find this useful for your research, please cite it below:
 | VQA v2.0              | Visual Question Answering                             | 265,016                               |[Link](https://paperswithcode.com/dataset/visual-question-answering-v2-0)              |
 
 
-## 🧒 <span id="head1"> *Contribution* </span>
+## 🙌 <span id="head1"> *Contribution* </span>
+
+A huge **thank you** to everyone who’s made this project possible! 🎉
 
 <a href="https://github.com/Nusrat-Prottasha/PEFT-A2Z/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Nusrat-Prottasha/PEFT-A2Z" />
