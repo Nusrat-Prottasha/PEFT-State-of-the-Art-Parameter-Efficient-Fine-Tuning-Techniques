@@ -1,5 +1,5 @@
 <h1 align="center">✨ Awesome PEFT A2Z </em> ✨</h1>
-<h2 align="center"> SOTA PEFT: State of the Art Parameter Efficient Fine Tuning Techniques for Large Language and Vision Models </em> </h2>
+<h2 align="center"> PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models </em> </h2>
 
 <p align="center">
   <a href="https://github.com/Nusrat-Prottasha/PEFT-A2Z">
