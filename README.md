@@ -35,7 +35,7 @@
 
 If you just want a quick lookup:
 
-[PEFT A2Z: Parameter‑Efficient Fine‑Tuning Survey for Large Language and Vision Models](https://arxiv.org/abs/2504.14117?fbclid=IwZXh0bgNhZW0CMTAAAR6sB8o19JTz5LIcCRUsonZxD5akU0TFxxyfAgtFB-Fkt7uY1YDD-PmFgfCYTg_aem_kFTmuTOs9QEtruiJjrDSyQ)
+**[PEFT A2Z: Parameter‑Efficient Fine‑Tuning Survey for Large Language and Vision Models](https://arxiv.org/abs/2504.14117?fbclid=IwZXh0bgNhZW0CMTAAAR6sB8o19JTz5LIcCRUsonZxD5akU0TFxxyfAgtFB-Fkt7uY1YDD-PmFgfCYTg_aem_kFTmuTOs9QEtruiJjrDSyQ)**
 
 
 ## 💡 <span id="head1"> *Abstract* </span>
@@ -572,12 +572,12 @@ If you find our work useful, please cite it as:
 
 ## 📊 Summary Tables
 
-We present a comprehensive summary of PEFT methods applied in NLP tasks across various LLMs and datasets in **Tables 5, 6, 7, 8, 9, 10, 11, and 12** of the paper [![arXiv](https://img.shields.io/badge/arXiv-2504.14117-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.14117).
+We present a comprehensive summary of PEFT methods applied in NLP tasks across various LLMs in **Tables 8, 9, 10, 11, and 12** of the paper [![arXiv](https://img.shields.io/badge/arXiv-2504.14117-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.14117).
 
 
-Below is an example (Table 5).
+Below is an example (Table 8).
 <p align="center">
-  <img src="figures/Table5.png" alt="Table 5: Overview of datasets used for PEFT methods in NLP" width="90%">
+  <img src="figures/Table8.png" alt="Table 8: Overview of datasets used for PEFT methods in NLP" width="90%">
 </p>
 
 # PEFT Methods in NLP Tasks
@@ -657,7 +657,7 @@ Below is an example (Table 5).
 
 ## 📊 Summary Tables
 
-We present a comprehensive summary of PEFT methods applied in vision tasks across various LLMs and datasets in **Tables 5, 6, 7, 13, and 14** [![arXiv](https://img.shields.io/badge/arXiv-2504.14117-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.14117).
+We present a comprehensive summary of PEFT methods applied in vision tasks across various LLMs in **Tables 13 and 14** [![arXiv](https://img.shields.io/badge/arXiv-2504.14117-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.14117).
 
 Below is an example (Table 13).
 <p align="center">
@@ -704,7 +704,14 @@ Below is an example (Table 13).
 
 
 
+## 📊 Summary Tables
 
+We present a comprehensive summary of PEFT methods applied to both NLP and vision tasks across various datasets in **Tables 5, 6 and 7** [![arXiv](https://img.shields.io/badge/arXiv-2504.14117-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.14117).
+
+Below is an example (Table 5).
+<p align="center">
+  <img src="figures/Table5.png" alt="Table 5: Overview of datasets used for PEFT methods" width="90%">
+</p>
 
 # 🚀 PEFT Methods in NLP Tasks Datasets
 
