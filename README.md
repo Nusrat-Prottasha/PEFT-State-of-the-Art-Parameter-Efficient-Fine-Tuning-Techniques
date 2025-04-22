@@ -29,13 +29,6 @@
 
 </p>
 
-## 🚀 <span id="head1"> *Introduction* </span>
-
-Large‑scale foundation models—such as Large Language Models (LLMs) and Pre‑trained Language Models (PLMs)—have driven breakthroughs in NLP, computer vision, and multimodal AI. Yet their ever‑increasing scale (often hundreds of billions of parameters) makes full fine‑tuning prohibitively expensive in compute, memory, and storage. 
-
-This repository accompanies the **PEFT A2Z** survey, which explores **Parameter‑Efficient Fine‑Tuning (PEFT)**: a class of methods that adapt huge pre‑trained models by updating only a small fraction of parameters. We begin by detailing the practical challenges of conventional fine‑tuning—overfitting, catastrophic forgetting, and resource bottlenecks—and then introduce a unified taxonomy of PEFT techniques (additive adapters, prefix tuning, LoRA, MoE‑based hybrids, and more). Along the way, you’ll find code snippets, visualizations, and an interactive roadmap to help you choose the right PEFT strategy for your task and hardware. Whether you’re working in language, vision, or multimodal domains, this repo is your guide to making large‑scale model adaptation both efficient and accessible.
-
-
 
 ## 💡 <span id="head1"> *Abstract* </span>
 
