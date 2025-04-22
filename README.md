@@ -570,6 +570,14 @@ If you find our work useful, please cite it as:
   [![Code](https://img.shields.io/badge/👩‍💻%20Code-2962FF?style=flat&labelColor=2962FF&color=2962FF)](https://github.com/wutaiqiang/MoSLoRA)
 
 
+## 📊 Summary Tables
+We present a comprehensive summary of PEFT methods applied in NLP tasks across various LLMs and datasets in **Tables 5, 6, 7, 8, 9, 10, 11, and 12** of the paper.  
+Below is an excerpt (Table 5).
+
+<p align="center">
+  <img src="figures/Table5.png" alt="Table 5: Overview of datasets used for PEFT methods in NLP" width="90%">
+</p>
+
 # PEFT Methods in NLP Tasks
 
 ## Models and Papers
