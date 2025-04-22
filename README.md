@@ -573,8 +573,7 @@ If you find our work useful, please cite it as:
 ## 📊 Summary Tables
 
 We present a comprehensive summary of PEFT methods applied in NLP tasks across various LLMs and datasets in **Tables 5, 6, 7, 8, 9, 10, 11, and 12** of the paper.  
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.14117?fbclid=IwZXh0bgNhZW0CMTAAAR6sB8o19JTz5LIcCRUsonZxD5akU0TFxxyfAgtFB-Fkt7uY1YDD-PmFgfCYTg_aem_kFTmuTOs9QEtruiJjrDSyQ)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2504.14117-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.14117)
 
 
 Below is an example (Table 5).
