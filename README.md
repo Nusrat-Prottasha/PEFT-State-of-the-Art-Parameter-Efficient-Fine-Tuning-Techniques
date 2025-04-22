@@ -654,6 +654,17 @@ Below is an example (Table 5).
 | July 2002 | BLEU | BLEU: A Method for Automatic Evaluation of Machine Translation | [Paper](https://aclanthology.org/P02-1040.pdf) |
 
 
+
+## 📊 Summary Tables
+
+We present a comprehensive summary of PEFT methods applied in vision tasks across various LLMs and datasets in **Tables 5, 6, 7, 13, and 14** [![arXiv](https://img.shields.io/badge/arXiv-2504.14117-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.14117).
+
+Below is an example (Table 13).
+<p align="center">
+  <img src="figures/Table13.png" alt="Table 13: Overview of datasets used for PEFT methods" width="90%">
+</p>
+
+
 # PEFT Methods in Vision Models
 
 
