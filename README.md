@@ -43,6 +43,19 @@ Large models such as Large Language Models (LLMs) and Vision Language Models (VL
 
 ## ⭐ <span id="head1"> *Citation* </span>
 
+If you find our work useful, please cite it as:
+
+```bibtex
+@misc{prottasha2025peft,
+  title     = {PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models},
+  author    = {Nusrat Jahan Prottasha and Upama Roy Chowdhury and Shetu Mohanto and Tasfia Nuzhat and Abdullah As Sami and Md Shamol Ali and Md Shohanur Islam Sobuj and Hafijur Raman and Md Kowsher and Ozlem Ozmen Garibay},
+  year      = {2025},
+  howpublished = {\url{https://github.com/Nusrat-Prottasha/PEFT-A2Z}},
+  note      = {Survey paper},
+  institution = {University of Central Florida and collaborators}
+}
+```
+
 If you find this useful for your research, please cite it below:
 
 ## 🚀 Serial Adapters
