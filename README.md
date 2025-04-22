@@ -48,8 +48,6 @@ If you find our work useful, please cite it as:
 }
 ```
 
-If you find this useful for your research, please cite it below:
-
 ## 🚀 Serial Adapters
 
 - Parameter-Efficient Transfer Learning for NLP [[Paper](https://arxiv.org/abs/1902.00751)]
