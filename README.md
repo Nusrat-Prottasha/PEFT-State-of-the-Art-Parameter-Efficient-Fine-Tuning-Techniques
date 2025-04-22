@@ -24,17 +24,18 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-## 📄 Paper
-
-If you just want a quick lookup:
-
-[PEFT A2Z: Parameter‑Efficient Fine‑Tuning Survey for Large Language and Vision Models](https://arxiv.org/abs/2504.14117?fbclid=IwZXh0bgNhZW0CMTAAAR6sB8o19JTz5LIcCRUsonZxD5akU0TFxxyfAgtFB-Fkt7uY1YDD-PmFgfCYTg_aem_kFTmuTOs9QEtruiJjrDSyQ)
 
 <p align="center">
 
 <img src="./figures/peft_tree.drawio.png" width="870">
 
 </p>
+
+## 📝 Paper
+
+If you just want a quick lookup:
+
+[PEFT A2Z: Parameter‑Efficient Fine‑Tuning Survey for Large Language and Vision Models](https://arxiv.org/abs/2504.14117?fbclid=IwZXh0bgNhZW0CMTAAAR6sB8o19JTz5LIcCRUsonZxD5akU0TFxxyfAgtFB-Fkt7uY1YDD-PmFgfCYTg_aem_kFTmuTOs9QEtruiJjrDSyQ)
 
 
 ## 💡 <span id="head1"> *Abstract* </span>
