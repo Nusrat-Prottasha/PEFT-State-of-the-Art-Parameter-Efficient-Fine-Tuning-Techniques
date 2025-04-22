@@ -52,7 +52,6 @@ If you find our work useful, please cite it as:
   year      = {2025},
   howpublished = {\url{https://github.com/Nusrat-Prottasha/PEFT-A2Z}},
   note      = {Survey paper},
-  institution = {University of Central Florida and collaborators}
 }
 ```
 
