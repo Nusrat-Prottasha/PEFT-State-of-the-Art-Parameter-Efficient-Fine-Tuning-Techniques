@@ -55,11 +55,7 @@ If you find our work useful, please cite it as:
 }
 ```
 
-<p align="center">
 
-<img src="./figures/peft_tree.drawio.png" width="870">
-
-</p>
 
 ## 🚀 Serial Adapters 
 
