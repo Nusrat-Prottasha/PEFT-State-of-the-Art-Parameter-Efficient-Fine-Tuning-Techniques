@@ -54,7 +54,11 @@ If you find our work useful, please cite it as:
   year={2025}
 }
 ```
+<p align="center">
 
+<img src=".figures/PEFT Tree.png" width="870">
+
+</p>
 
 
 ## 🚀 Serial Adapters 
